@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - /bin/rsync -a --exclude='.git' --exclude='.cpanel.yml' /home/drusanyc/repositories/drusany-static/ /home/drusanyc/public_html/
+    - /bin/bash -c 'nohup /bin/rsync -a --no-i-r --exclude=.git --exclude=.cpanel.yml /home/drusanyc/repositories/drusany-static/ /home/drusanyc/public_html/ > /tmp/deploy-rsync.log 2>&1 &'
