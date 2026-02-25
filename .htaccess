@@ -7,13 +7,12 @@ DirectoryIndex index.html
 RewriteEngine On
 RewriteBase /
 
-# /blog uvijek otvori stranicu, ne mapu (Facebook bot, Index of /blog)
-RewriteRule ^blog$ blog.html [L]
-RewriteRule ^blog/$ blog.html [L]
+# /blog i /blog/ uvijek otvori stranicu blog.html, ne mapu (Facebook bot)
+RewriteRule ^blog/?$ blog.html [L]
 
-# Ako tražiš nešto unutar mape blog (npr. blog/post.html), pusti
-RewriteCond %{REQUEST_FILENAME} -d
-RewriteRule ^blog/(.*)$ blog/$1 [L]
+# Podstranice bloga – pusti samo ako NIJE direktorij (server ne traži u mapi)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^blog/(.+)$ blog/$1 [L]
 
 # Ostale glavne stranice
 RewriteRule ^about/?$ about.html [L]
