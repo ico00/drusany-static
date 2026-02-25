@@ -1,4 +1,4 @@
-Options -MultiViews -Indexes
+Options -Indexes -MultiViews
 
 DirectoryIndex index.html
 
@@ -6,15 +6,15 @@ DirectoryIndex index.html
 RewriteEngine On
 RewriteBase /
 
-# /blog i /blog/ uvijek otvori stranicu blog.html, ne mapu (Facebook bot)
+# 1. /blog ili /blog/ – odmah daj blog.html, prije svega
 RewriteRule ^blog/?$ blog.html [L]
 
-# Blog postovi – ako .html datoteka postoji, posluži nju (prije nego Apache pogleda mapu)
+# 2. Blog post (npr. blog/neki-post.html) – samo ako datoteka postoji na disku
 RewriteCond %{DOCUMENT_ROOT}/blog/$1.html -f
-RewriteRule ^blog/(.*)\.html$ blog/$1.html [L]
+RewriteRule ^blog/(.+)\.html$ blog/$1.html [L]
 
-# Ostale glavne stranice
-RewriteRule ^about/?$ about.html [L]
-RewriteRule ^contact/?$ contact.html [L]
-RewriteRule ^admin/?$ admin.html [L]
+# 3. Univerzalni fallback – about, contact, admin (dodaj .html ako datoteka postoji)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html [L]
 </IfModule>
