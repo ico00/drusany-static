@@ -1,3 +1,5 @@
+# Isključi automatsko dodavanje slasha koji uzrokuje 403 na mapama
+DirectorySlash Off
 Options -Indexes -MultiViews
 
 DirectoryIndex index.html
@@ -6,14 +8,14 @@ DirectoryIndex index.html
 RewriteEngine On
 RewriteBase /
 
-# 1. /blog ili /blog/ – odmah daj blog.html, prije svega
-RewriteRule ^blog/?$ blog.html [L]
+# 1. Ako je zahtjev točno za mapu /blog ili /blog/, silom pošalji na blog.html
+RewriteRule ^blog/?$ /blog.html [L,R=301]
 
-# 2. Blog post (npr. blog/neki-post.html) – samo ako datoteka postoji na disku
+# 2. Blog post – provjeri postoji li .html datoteka, serviraj je (sprječava gledanje u /blog mapu)
 RewriteCond %{DOCUMENT_ROOT}/blog/$1.html -f
 RewriteRule ^blog/(.+)\.html$ blog/$1.html [L]
 
-# 3. Univerzalni fallback – about, contact, admin (dodaj .html ako datoteka postoji)
+# 3. Fallback za sve ostalo (index, about, contact...)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.*)$ $1.html [L]
