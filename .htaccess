@@ -1,13 +1,22 @@
+Options -Indexes
+Options -MultiViews
+
 DirectoryIndex index.html
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
 
-# Izričita pravila: ruta bez .html -> odgovarajući .html (radi refresha)
-# Samo glavne stranice; blog postovi (/blog/slug) nisu uključeni zbog 500 na ovom hostingu
+# /blog uvijek otvori stranicu, ne mapu (Facebook bot, Index of /blog)
+RewriteRule ^blog$ blog.html [L]
+RewriteRule ^blog/$ blog.html [L]
+
+# Ako tražiš nešto unutar mape blog (npr. blog/post.html), pusti
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^blog/(.*)$ blog/$1 [L]
+
+# Ostale glavne stranice
 RewriteRule ^about/?$ about.html [L]
-RewriteRule ^blog/?$ blog.html [L]
 RewriteRule ^contact/?$ contact.html [L]
 RewriteRule ^admin/?$ admin.html [L]
 </IfModule>
