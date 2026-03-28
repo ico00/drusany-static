@@ -11,6 +11,12 @@ RewriteBase /
 # 1. Ako je zahtjev točno za mapu /blog ili /blog/, silom pošalji na blog.html
 RewriteRule ^blog/?$ /blog.html [L,R=301]
 
+# 1b–1c. Next.js output:export + javni URL /blog/slug.html — klijent traži drugačije putanje od datoteka na disku:
+#   GET …/slug.html.txt     → blog/slug.txt (RSC navigacija)
+#   GET …/slug.html/__next.* → blog/slug/__next.* (prefetch segmenti)
+RewriteRule ^blog/(.+)\.html\.txt$ blog/$1.txt [L]
+RewriteRule ^blog/(.+)\.html/(__next\..+)$ blog/$1/$2 [L]
+
 # 2. Blog post – provjeri postoji li .html datoteka, serviraj je (sprječava gledanje u /blog mapu)
 RewriteCond %{DOCUMENT_ROOT}/blog/$1.html -f
 RewriteRule ^blog/(.+)\.html$ blog/$1.html [L]
