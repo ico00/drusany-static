@@ -15,11 +15,19 @@ RewriteRule ^blog/?$ /blog.html [L,R=301]
 #   GET …/slug.html.txt     → blog/slug.txt (RSC navigacija)
 #   GET …/slug.html/__next.* → blog/slug/__next.* (prefetch segmenti)
 RewriteRule ^blog/(.+)\.html\.txt$ blog/$1.txt [L]
+# RSC navigacija: /blog.html.txt → blog.txt (slug pravilo iznad pokriva /blog/članak.html.txt)
+RewriteRule ^([^/]+)\.html\.txt$ $1.txt [L]
 RewriteRule ^blog/(.+)\.html/(__next\..+)$ blog/$1/$2 [L]
 
-# 2. Blog post – provjeri postoji li .html datoteka, serviraj je (sprječava gledanje u /blog mapu)
+# 1d–1e. Prefetch za stranice „na korijenu” kao /blog.html, /about.html:
+#   Next traži /blog.html/__next._tree.txt, datoteka je blog/__next._tree.txt.
+#   Za /index.html/__next.* segmenti su u korijenu sitea (/__next._tree.txt).
+RewriteRule ^index\.html/(__next\..+)$ /$1 [L]
+RewriteRule ^([^/]+)\.html/(__next\..+)$ $1/$2 [L]
+
+# 2. Blog post – čisti URL /blog/slug (bez .html); stari /blog/slug.html → 301 redirect
 RewriteCond %{DOCUMENT_ROOT}/blog/$1.html -f
-RewriteRule ^blog/(.+)\.html$ blog/$1.html [L]
+RewriteRule ^blog/(.+)\.html$ /blog/$1 [L,R=301]
 
 # 3. Portfolio kategorije (čiste rute: /interiors, /concerts, itd.)
 RewriteRule ^(concerts|sport|animals|interiors|zagreb|food-drink)/?$ $1.html [L]
