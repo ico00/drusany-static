@@ -32,6 +32,8 @@ RewriteCond %{DOCUMENT_ROOT}/blog/$1.html -f
 RewriteRule ^blog/([^/]+)$ blog/$1.html [L]
 
 # 2b. Stari /blog/slug.html URL-ovi → 301 redirect na čisti oblik
+#     %{THE_REQUEST} osigurava da se hvata samo originalni zahtjev, ne interni rewrite iz #2
+RewriteCond %{THE_REQUEST} \s/blog/[^\s]+\.html
 RewriteCond %{DOCUMENT_ROOT}/blog/$1.html -f
 RewriteRule ^blog/(.+)\.html$ /blog/$1 [L,R=301]
 
