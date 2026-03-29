@@ -25,7 +25,13 @@ RewriteRule ^blog/(.+)\.html/(__next\..+)$ blog/$1/$2 [L]
 RewriteRule ^index\.html/(__next\..+)$ /$1 [L]
 RewriteRule ^([^/]+)\.html/(__next\..+)$ $1/$2 [L]
 
-# 2. Blog post – čisti URL /blog/slug (bez .html); stari /blog/slug.html → 301 redirect
+# 2. Blog post – čisti URL /blog/slug → blog/slug.html
+#    Direktorij blog/slug/ postoji (segment datoteke), pa fallback pravilo ne radi.
+#    Ovo pravilo eksplicitno servira .html datoteku.
+RewriteCond %{DOCUMENT_ROOT}/blog/$1.html -f
+RewriteRule ^blog/([^/]+)$ blog/$1.html [L]
+
+# 2b. Stari /blog/slug.html URL-ovi → 301 redirect na čisti oblik
 RewriteCond %{DOCUMENT_ROOT}/blog/$1.html -f
 RewriteRule ^blog/(.+)\.html$ /blog/$1 [L,R=301]
 
@@ -33,7 +39,9 @@ RewriteRule ^blog/(.+)\.html$ /blog/$1 [L,R=301]
 RewriteRule ^(concerts|sport|animals|interiors|zagreb|food-drink)/?$ $1.html [L]
 
 # 4. Fallback za sve ostalo (index, about, contact...)
+#    !-f AND !-d: preskače direktorije (slug/ mape sa segment datotekama)
 RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.*)$ $1.html [L]
 </IfModule>
