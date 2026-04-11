@@ -25,6 +25,10 @@ RewriteRule ^blog/(.+)\.html/(__next\..+)$ blog/$1/$2 [L]
 RewriteRule ^index\.html/(__next\..+)$ /$1 [L]
 RewriteRule ^([^/]+)\.html/(__next\..+)$ $1/$2 [L]
 
+# 1f. Blog lista po kategoriji – /blog/kategorija/slug → blog/kategorija/slug.html
+RewriteCond %{DOCUMENT_ROOT}/blog/kategorija/$1.html -f
+RewriteRule ^blog/kategorija/([^/]+)$ blog/kategorija/$1.html [L]
+
 # 2. Blog post – čisti URL /blog/slug → blog/slug.html
 #    Direktorij blog/slug/ postoji (segment datoteke), pa fallback pravilo ne radi.
 #    Ovo pravilo eksplicitno servira .html datoteku.
