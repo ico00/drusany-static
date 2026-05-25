@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T433,U prošlom postu smo gledali juniore da bi se sad prebacili na onaj "pravi" turnir.
+
+Ulovio sam naše cure i dečke u susretima protiv Španjolske odnosno Švicarske u kojima smo odnijeli pobjede, cure nakon raspucavanja, a dečki odmah nakon drugog seta.
+
+Pauza do sljedeće tekme je bila sat i pol, a vani je sunce peklo ko da nas sve želi pobit pa sam krenuo prema doma, ali me i auto htio ubit jer je zakuhao na (ne)ugodnih 40 stupnjeva.
+
+Na žalost ni danas tribine nisu bile pune kaj se i vidi na fotkama sa fishem.
+
+S frendom sam se nadobudno uputio i na popodnevne tekme, ali se iznad Zagreba otvorilo nebo tako da samo za 5kn samo napravili krug oko Jaruna i krenuli prema doma.
+
+[gallery link="file" columns="4" ids="24525,24526,24527,24528,24529,24530,24531,24532,24533,24534,24535,24536,24537,24538,24539,24540,24541,24542,24543,24544,24545,24546,24547,24548,24549,24550,24551,24552,24553,24554,24555,24556,24557,24558,24559,24560,24561,24562,24563,24564,24565,24566,24567,24568,24569,24570,24571,24572,24573,24574,24575,24576,24577,24578,24579,24580"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/6cb59e6e-d8bf-4fa3-833f-be187f19a557","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Rukomet: Euro 2017 - Beach Handball (I)"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["22. 06. 2017.",""," · Rukomet, Sport"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

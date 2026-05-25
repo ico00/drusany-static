@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Ta74,Jučer sam se sa ženom prošetao centrom kako bi vidio na kaj liči taj Advent u Zagrebu. Nakon prošlogodišnjeg Božića u Londonu očekivao sam da ću se malo razočarati, ali neke stvari su bile i više nego malo razočaranje. Na svu sreću ima i pomaka na bolje.
+
+ 
+
+Znam da Zagreb nema isti budžet za ukrašavanje grada kao London, ali nije sve u novcima. Nešto je i u ukusu. Odvratne plave lampice u Gajevoj ili crven-bijeli-plavi lampice po Bogovićevoj i okolnim uličicama su daleko od ukusa. Izgleda mi kao da je sponzor ukrašavanja tog dijela grada bila Konjščinska.
+
+ 
+
+Stvar je spasio Zrinjevac koji je taman po mom ukusu. Lijepe male kućice/štandovi koje su ofarbane u bijelu boju i oko kojih su postavljeni stari bicikli i sanjke. Sve je ukrašeno s pristojnim nenametljivim lampicama, a u paviljonu je živa muzika. Sve okolo miriši po kuhanom vinu i fritulama, pa su tako i oči, uši i nos bili sretni. Falila mi je samo jedna kućica s finom kavom, <a href="http://www.eliscaffe.com" target="_blank" rel="noopener noreferrer">Eliscafe</a> bi zaokružio dojam na 100%. Kak bi se reklo Zrinjevac je na nivou.
+
+ 
+
+Zgodan detalj je postavljen u Preobraženskoj, a riječ je o dvije stare kabine sada već zaboravljene sljemenske žičare. Oko njih su postavljeni borovi u zimskom snježnom štihu.
+
+ 
+
+Novotarija u gradu je i "<a href="http://www.facebook.com/pages/Fuliranje-kod-Uspinjače/456821864368469" target="_blank" rel="noopener noreferrer">Fuliranje kod uspinjače</a>", svojevrsna posveta Zagrebu u 30-im godinama. Tomićeva je ovim mini projektom konačno zaživjela, a uspinjača besplatno vozi gore dole. Za oko mi je posebno zapela tabla s natpisom "Gratis ljubljenje pod imelom" :) Navečer je takva gužva da se nije moglo normalno niti hodati. Palac gore.
+
+ 
+
+Projekt Gričevanje je zaživio i ove godine. Jučer je bio besplatni koncert Josipe Lisac. Nadam se da neće bioti jedini ove zime jer Gornji grad zaslužuje i više od jednog koncerta. Ne bi se bunio niti da se postavi i "Zima na Strossu" jer se ljetni i jesenski Stross pokazao kao pun pogodak.
+
+ 
+
+Stvar je naravno morao zasrati Milanov šator. Dok se Miki brine da ljudi koji ulaze u grad ne vide livadu po kojoj pesi kakaju nego njegove fontane, u srcu grada je razapeto ogromno bijelo plastično ruglo koje izgleda kao da je teleportirano iz Pogane Vlake, a u njemu vladaju kobasičari i slična zabava. Zaključit ću citatom Hladnog piva koji kažu: "Kirbaj i kotlovina, dobrodošla pripizdina."
+
+ 
+
+[gallery link="file" columns="4" ids="5991,5992,5993,5994,5995,5996,5997,5998,5999,6000,6001,6002,6003,6004,6005,6006,6007,6008"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/eab46100-a047-4bbf-926c-6bb6633704b2","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Zagrebancije XVI - Advent u Zagrebu"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["21. 12. 2012.",""," · Gradovi"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

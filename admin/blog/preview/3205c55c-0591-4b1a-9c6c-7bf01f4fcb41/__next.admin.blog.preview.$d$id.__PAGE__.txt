@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T1baf,
+<p>Kako to biva nakon <a href="http://foto.drusany.com/2021/03/10/mac-mini-m1-prvi-dojmovi/" target="_blank" rel="noreferrer noopener">prvih dojmova</a> valja napisati i druge dojmove, odnosno dojmove nakon pravog korištenja. Za neupućene pričamo o osnovnom modelu <strong>Mac Mini M1 sa 8 GB RAM-a i 256 SSD</strong>-a.</p>
+
+
+
+<p>Nisam naravno radio neke lude testove nego sam u godinu dana provrtio sve ozbiljnije što sam mislio raditi. <strong>Foto - video - prijelom - ArchiCad</strong>. </p>
+
+
+
+<h2>Treba li više svega?</h2>
+
+
+
+<p>Za navedene poslove vjerojatno treba odnosno dobro bi došlo ako želite mirniji san i rad bez razmišljanja trebam li ugasiti sve neaktivne aplikacije da ne opterećujem stroj. Tu prvenstveno mislim na RAM, a i tih 256 SSD-a se brzo topi. </p>
+
+
+
+<p>U Photoshopu nisam primjetio da mi nešto fali, dok mi Premiere recimo nije radio glatko, a pričam o običnom filmiću koji sam slagao sa minimalno efekata i klipovima HD rezolucije.  Dakle pokretanje previewa imao je delay od preko sekunde, povlačenje slidera također je bilo trzajuće što mi je iritantno i da radim neke veće projekte s 4K ili nedaj bože 8K fajlovima, to bi vjerojatno bilo prebolno. Na starom iMacu mi isti projekt nije radio probleme.</p>
+
+
+
+<p>No tada se Premiere prebacio na M1 arhitekturu pa je većina problema nestala. Isti projekt je u Final Cutu letio jer jelte…FC je bio prilagođen u startu.</p>
+
+
+
+<p>Neki testovi koje sam gledao ne daju nikakvu prednost stroju sa 16 GB u odnosu na 16 GB no neki kod rendera prikazuju značajni napredak.</p>
+
+
+
+<p>SSD se topi ali kao što sam prije pisao lako se kupi vanjski SSD iako je uvijek zgodno imati što veći interni disk ne za skladištenje nego za <em>scratch disk</em> koji će se još prije punit ako je RAM-a manje. Ali…</p>
+
+
+
+<p>Problem s kojim se ja susrećem je nemogućnost dodavanja <em>scratch diska</em> u Photoshopu. Iako su mi mountana dva diska (HDD i SDD) na listi se ne prikazuje niti jedan. </p>
+
+
+
+<p>A kao što vidimo Photoshop prikazuje jednu količinu slobodnog prostora, a OS X drugu. </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/uploads/wordpress/2022/03/Screenshot-2022-03-09-at-17.44.38-1024x342.png" alt="/" class="wp-image-32708" /></figure>
+
+
+
+<p><strong>EDIT 31.7.2022. </strong>- Kupio sam externi SSD od 500 Gb Samusung 980 Pro NVMe M.2 i formatirao ga na Mac Os Extended pa je sad prikazan i na scratch disk listi tako da više nema one iritantne poruke koja onemogućava rad. Dakle ExFat i slični formati ne prolaze.  </p>
+
+
+
+<p>Kod dužeg ili zahtjevnijeg rada može doći do zakrčenja, pa Photoshop neće moći odraditi kaj treba dok se ne izmisli dodatno mjesto.</p>
+
+
+
+<p>Zaključak je da svega više nikako neće biti na odmet, ali može se i ovako. Ako pare nisu problem sve natrpaš i miran si. No svako trpanje kod Applea značajno diže cijenu pa gubimo taj best buy faktor Minija.</p>
+
+
+
+<h2>Cupertino, we have a problem</h2>
+
+
+
+<p>A problem se zove <strong>Big Sur</strong>. Svaki OS X ima neke bube i bubice, al načelno u 12 godina korištenja Maca ne pamtim neke traume. Big Sur mi ih lagano stvara. Možda griješim dušu i napadam poštene softveraša, a stvar je u M1 hardveru, ali ne bi reko.. </p>
+
+
+
+<p>Dakle ovo čudo si je umislilo da su Windowsi. Znalo se zablokirat tako da nemožeš Force quitat, nego doslovno ubit stroj što sam u 12 godina napravio valjda par puta, puno puta manje nego u ovih mjesec dana. Spotlight tu i tamo iz nekog razloga ne prikazuje rezultate, otvori se ali ništa ne nalazi. Nakon reseta radi. </p>
+
+
+
+<p>Jedan dan sam dobio živčani slom dok sam shvatio zašto se finder smrzava. Problem je bio u mrežnim diskovima i folderima koju su izvučeni u Finderu pod Favourites. Svaki put kad bi mišem prešao preko tog dijela ili htio nešto odvući tamo Finder umre. Prvo sam mislio da je stvar određenog dokumenta kojeg prebacujem, pa njegove lokacije, pa da pathevi nisu dobri...uglavnom sve je bilo dobro samo je stroj trebao jebeni reset. Da su to Windowsi odmah bi riješio taj problem jer bi ga prvo išao resetirati prije svega ostalog. Ali Apple me naučio da to nije potrebno...sve do Big Sura. </p>
+
+
+
+<p>Onda se zna samo ugasiti odnosno resetirati pa kad se zboota baci ovu poruku </p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/9v4pI0Y8eHAJNPX2vS8aiGCJxaJPTe7ZQIQfdE5otFKVwAnlAqm-GV5Qe77Id7XflB7Eiqfy56kKpDn1xaD6pAeoEXjYEPkyevZLud1GmB4Hi9yfzMyEE16W_JMBtCFsxI5mbGt4" /></figure>
+
+
+
+<p>Onda je došao <strong><a href="https://www.apple.com/macos/monterey/features/" target="_blank" rel="noreferrer noopener" title="Monterey">Monterey</a></strong> i problemi su uglavnom nestali. Došla su uz njega još neka poboljšanja, ali po meni ništa vrijedno prevelikog spomena.  </p>
+
+
+
+<h2>Isplativost</h2>
+
+
+
+<p>Stalno ponavljam jer svi stalno pitaju, ali vi jedino znate da li je vama nešto isplativo, bilo to aparati, kompjuteri, auti… Meni se ovaj basic model isplati jer mi je cijena OK i jer mi je dovoljan napredak u odnosu na stari komp. Da li bi mi se isplatilo uložiti dodatnih 3.800 kn za 16/512 model, ne bih rekao. Ili 5.800 kn za 16/1TB i tako dođem do konačne cijene od 17.500 kn s monitorom umjesto uloženih 11.700 kn.</p>
+
+
+
+<p>Uvijek se nađe neki koji bi čekao jer uvijek će doći nešto novo…pa bude, to je logično. Evo da sam čekao ne znam kaj bi dočekao da si mogu priuštit. M1 iMac je izašao samo u 24” varijanti što mi nije opcija, Pro i Max su se pojavili samo u laptopima što me također ne zanima previše no prekjučer je na Apple eventu zasjalo sunce u obliku <strong>Mac Studia</strong>. Pro je došao u novi mali desktop kao i novo mitsko čudovište naziva <strong>Ultra</strong>. No tu su cijene puno paprenije tako da ne, nisam ništa propustio niti bi si mogao priuštiti novi Studio. Za šparanje sad imam 3 godine kada će proći psihološka granica od 4 godine kada obično mijenjam kompjutere. </p>
+
+
+
+<p>Uz desktop konačno je predstavljan i novi monitor čarobnog naziva <strong>Studio Display</strong> koji je nasljednik već zaboravljenog Thunderbolt Displaya s cijenom minimalno 15.000 kn. 5K ubačeno u 27” baš kao i varijanta u iMacu, samo sada imamo više nade da se neće desiti neki defekt u monitoru koji se dešava svakoj generaciji iMaca u ne znam koliko unazad.</p>
+
+
+
+<p>Cijene u Hrvatskoj još nisu formirane, ali ne očekujem ništa ispod 18.500 kn za entry level Studio s M1 Max 10 Core CPU / 24 Core GPU / 16 Core Neural Engine, 32 GB RAM, 512 SSD odnosno minimum 37.000 kn za Ultru sa 20 Core CPU / 48 Core GPU / 32 Core Neural Engine, 64 GB RAM, 1 TB SSD.</p>
+
+
+
+<p>Tako bi nas početni Mac Studio s monitorom mogao koštati cca 33.500 kn, naravno ako su ove moje odokativne cijene točne. </p>
+
+
+
+<p>I vratimo se na pitanje isplativosti Mac Mini M1…apsolutno isplativ. Apsolutan best buy. Sve drugo je još više super, ali cijene premašuju moje želje i mogućnosti. Onih 21.000 kn za novi iMac sam još nekako mogao prežvakati, ali sve ovo ostalo je too much.</p>
+0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/3205c55c-0591-4b1a-9c6c-7bf01f4fcb41","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Mac Mini M1 - Prva godina"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["10. 03. 2022.",""," · Info"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

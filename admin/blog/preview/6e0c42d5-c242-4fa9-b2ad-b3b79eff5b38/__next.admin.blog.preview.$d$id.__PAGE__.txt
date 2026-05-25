@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Tf45,Prekjučer sam na fejs stavio neku fotku kave da kao obilježim <strong>međunarodni dan kave</strong>. I onda jučer vidim najave za današnji svjetski dan kave tak da mi niš nije bilo jasno, kada je taj dan zapravo!? Reko da nisu opet ovi internet šaljivdžije koji svake godine montiraju onaj vremeplov iz Povratka u budućnost na aktualnu godinu i datum kako bi rekli da ja baš danas ta budućnost iz filma. No guglajući sam brzo došao do saznanja da postoji više svjetskih dana kave, odnosno više datuma koji su različiti u svakoj regiji ili državi.
+
+Ali prvi pravi međunarodni dan kave je baš danas <strong>1.10.2015.</strong> Tako su odlučili svjetski kavoljupci udruženi u <strong>International Coffee Organization (ICO)</strong>, a sredinom godine nam je to prenio njihov gazda Robério Oliveira Silva.
+
+ 
+
+Ispijanje kave može biti navika, gušt, ovisnost… Kod mene je kombinacija gušta i ovisnosti. Da bi izbjegao glavobolju moram popiti jednu kavu do podne, a druga je iz čistog gušta. Pijem ju od srednje škole, ali sam tek zadnjih godina otkada sam bio prisiljen prestati uživati u alkoholnim delicijama počeo intenzivnije obraćat pažnju na kavu koju pijem. Tako sam irske nektare u obliku Kilkennya, Guinnessa, Murphy'sa, O'Hare i slične zamijenio sa koliko toliko pravilno napravljenim kavama. Ono što mi je prije bio Tolkien's Pub ili stari Londoner to su sada <a href="http://www.eliscaffe.com/" target="_blank" rel="noopener noreferrer">Eliscaffe</a> ili pak <a href="http://www.velvet.hr/caffe.html" target="_blank" rel="noopener noreferrer">Velvet</a>. Nekada sam gledao kakve točionike imaju birtije, a danas škicnem da aparat za kavu nije možda <strong>La Marzocco</strong>.
+
+Nisam nikakav stručnjak niti poznavatelj, samo mi je niži prag tolerancije za lošu kavu. Još uvijek mi je šećer u kavu kao i sol na bifteku – neizostavan, još uvijek ću staviti malo mlijeka u kavu, ali više ne mogu popiti instant kavu, ne podnosim spaljenu kavu i mlijeko, užarene šalice, čarapuše, loše okuse i sl. Doma se krpam sa stvarno solidnim i praktičnim <strong>Dolce Gusto</strong> kapsulama dok ne skupim lovu za nekog <strong>Juru</strong> za još bolji doživljaj.
+
+ 
+
+Iako mi se prije činilo da u Hrvatskoj situacija nije najbajnija po pitanju pripreme kave, kad god odem van vidim da je u biti jako dobra. Čak i loša kava kod nas je bolja od većine koje sam pio vani. U običnim kafićima vani nisam popio pitku kavu, štoviše znao sam ih i ostaviti dok se u specijaliziranim kafićima može naći stvarno božanskih napitaka kao npr. u turskom kafiću <a href="http://www.kahvedunyasi.co.uk" target="_blank" rel="noopener noreferrer">Kahve Dunyasi</a> u Londonu ili edinburškom <a href="http://www.elephanthouse.biz/" target="_blank" rel="noopener noreferrer">Elephant Houseu</a>.
+
+ 
+
+Više puta sam htio napraviti pravo snimanje sa kavom u glavnoj ulozi, ali doma nemam uvjete za ono što želim dok je po kafićima to pak malo komplicirano raditi. Baš kao i kod snimanja hrane i ovdje je važna priprema i brzina. No kod hrane se mogu koristiti razne varalice i rekviziti koji će učiniti hranu postojanijom i primamljivijom poput glicerina, umjetnog leda i još hrpe raznih sranja, sa kavom je situacija drugačija i po meni kompliciranija. Tu nema previše pomoći.
+
+Sve treba biti savršeno napravljeno i fotkano trenutno jer će se u suprotnom krema espressa i slojevi caffe lattea će se slegnuti, pjena cappuccina popucati, eventualna dekoracija rastopiti, a <em>latte art</em> razliti.
+
+ 
+
+I na kraju ovog laprdanja evo par recikliranih tematskih fotki.
+
+Uživajte u svojim espressima, cappuccinima, ristrettima, macchiatima, lateima, instantima, filterima…
+
+ 
+
+[gallery link="file" columns="4" ids="19916,19925,19919,19928,19913,19917,19915,19918,19920,19921,19924,19926,19922,19927,19923,19914"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/6e0c42d5-c242-4fa9-b2ad-b3b79eff5b38","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Međunarodni dan kave"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["01. 10. 2015.",""," · Gradovi, Zagrebancije"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

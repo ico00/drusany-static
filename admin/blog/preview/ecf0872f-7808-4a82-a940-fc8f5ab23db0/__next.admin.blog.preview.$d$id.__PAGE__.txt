@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Tc69,Final fight u zagrebačkoj areni, dugoočekivani borilački spektakl, oproštaj Mirka Filipovića i to još po K1 pravilima, a ne onom MMA natezanju. Ray Sefo kao protivnik. I još osam borbi prije toga za zagrijavanje. A borbu najavljuje Michael Buffer. Ne zvuči loše.
+
+ 
+
+U ovom postu posvetit ću se toj glavnoj borbi, okršaju između Cro Copa i Raya Sefa. Barem je trebao biti okršaj. Većina ljudi kaže da je borba izgledala namješteno. Ne bi htio ulaziti u detalje, ali nekako mi se činilo da dečki baš nisu išli na KO iako su se mlatili. U jednom trenutku Sefo je spustio ruke i pustio da ga Mirko udara. Ne znam da li je to bilo da bi napravio show, da bi pokazao da ga ne boli i da je životinja ili je neki treći razlog u igri, ali ispalo je malo blesavo.
+
+ 
+
+Borilo se 3x3min i Mirko je nakon treće runde jednoglasno proglašen pobjednikom na opće oduševljenje publike u Areni. Onda je slijedilo malo govorancije, zahvala  i tako je završila i ta večer.
+
+ 
+
+Još jedan zanimljivi detalj je da se priredba zvala Final fight i da je najavljivan Mirkov oproštaj i onda kao ipak to možda nije zadnja borba, možda se vrati u K1!?!
+
+ 
+
+E sad.... organizacija s fotografske strane me opet oduševila. Za zagrijavanje počinjemo s plastikom za akreditaciju koje više nisu imali, pa sam ju držao u džepu. OK, najmanji problem, ali opet glupo.
+
+ 
+
+Nakon toga dolazimo do ringa, ali tu nema nikog od organizacije da nas uputi kaj smijemo, a kaj ne i gdje bi trebali stajati. Kamerman na slovenskom nekaj počinje grgljati da je jedan ćošak njegov, a drugi od drugog kamermana i da tam nemremo biti. Onda dolazi neki lik iz organizacije i samo jednom dijelu fotografa govori da se ipak može tamo i na još jednom dijelu.
+
+ 
+
+Prvi borci ulaze sa otprilike sat vremena zakašnjenja, pa do nas dolazi neki drugi iz organizacije i tjera nas jer tamo ipak ne možemo biti. Nekako se uspijemo rasporediti da bi se ubrzo ljudi počeli buniti jer im naravno smetamo. Organizator se naravno nije sjetio staviti stolce uz ring za fotografe kako ne bi smetali ljudima i kako bi nam olakšao posao, pa smo se tri sata grbili u polu čučnju.
+
+ 
+
+Budući da je sve kasnilo kako sam već spomenuo, a termin na televiziji se ne može pomaknuti krenule su borbe za borbom bez pauze.  Toliko su se žurili da su u jednom trenutku počeli najavljivati sljedeće borce dok pobjednik još nije preuzeo pehar.
+
+ 
+
+Oni trokuti sa reklamama u ringu ispod štrika nisu bili fiksirani za pod pa su svako malo bježali, a jedan borac se i spotaknuo na njega.
+
+ 
+
+Mirko je otkrio da i pod ringa baš nije u najboljem izdanju jer  je na jednom dijelu sve propada.
+
+ 
+
+Toliko o propustima.
+
+ 
+
+Svjetla je bilo dovoljno pa se fino moglo fotkati. Auto WB je fino odradio jer su lampe očito normalne za razliku od onih na Maksimiru ili Domu sportova. Fotaka sam ispucao puno, puno ih je za baciti, ali opet dovoljno ih je iskoristivih.
+
+ 
+
+Ovo je prva tura.
+
+ 
+
+[gallery link="file" columns="4" ids="3715,3716,3717,3718,3719,3720,3721,3722,3723,3724,3725,3726,3727,3728,3729,3730,3731,3732,3733" orderby="post_date"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/ecf0872f-7808-4a82-a940-fc8f5ab23db0","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Final fight: Mirko Filipović vs. Ray Sefo"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["11. 03. 2012.",""," · Sport"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

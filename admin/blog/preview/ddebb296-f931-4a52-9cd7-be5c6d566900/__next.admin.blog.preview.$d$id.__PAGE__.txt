@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T9c5,Nakon iznenađujuće pobjede nad <a href="http://foto.drusany.com/2015/09/18/nogomet-dinamo-arsenal/" rel="noopener noreferrer">Arsenalom</a> u prvom kolu i očekivanog poraza od Bayerna gajile su se nade za još jednim čudom na Maksimiru protiv <strong>Olympiacosa</strong>.
+
+U prvih možda 30 minuta prvog poluvremena čak je izgledalo kao da bi se nešto takvo moglo i dogoditi. Činjenica da sam stajao na strani gdje napada Olympiacos i da nisam ima niti jednu fotku prvih 15 minuta govori da je Dinamo bio agresivan pa čak i nadmoćan i da Grci nisu baš prelazili centar na početku.
+
+Pritisak je popuštao prema kraju prvih 45 minuta, ali daleko je to bilo od igre mačke i miša kako se očekivalo tako da se u svlačionice otišlo sa 0:0 na semaforu.
+
+Nastavak ipak nema toliko agresije plavih, ali i dalje nema gola ni sa Olympiacosove strane. Činilo se da bi Dinamo mogao izvući barem bod do kraja utakmice što bi bio stvarno solidan rezultat. I onda mi se pred očima odigrala scena koju ću teško zaboraviti. <strong>Ideye</strong> je došao do ideje da bi mogao zapucati prema <strong>Eduardu</strong> iz mrtvog kuta…i uspio je. Još jedno loše postavljanje Portugalca i lopta je u mreži a Dinamo 10 minuta prije kraja gubi i bod koji je držao i eventualna 3 boda koja su realno mogli izvući. Svi smo se 98. divili Prosinečkom kada je Jamajci zafitiljio iz također ne baš uobičajene pozicije, ali ovo je išlo još dublje, pucano je skoro sa linije. Bit će čudno ako ne dođe do promjene golmana u budućim utakmicama.
+
+Utakmica je završila sa tih nesretnih 0:1, a sol na ranu utrljao je Arsenal koji je uspio dobiti Bayern 2:0 i dodatno nam zagorčati život. Kažem nesretnih jer nakon Dinamovih vratnica, nesuđenih penala i nemogućeg gola iz ofsajda ovaj put se stvarno možemo pozivati na nesreću.
+
+Tribine nisu bile ni približno ispunjene, ali došlo je ljudi dok je gostujući jug bio prazan. Sigurnosni razlozi naravno. Dinamo, Grci, Srbi, Crvena zvezda, Delije, BBB, huligani, kriminalci, prijetnje… <em>same ol' shit.</em>
+
+Fotkanje…samo ću priložiti fotku jednog reflektora. Nemam više volje išta komentirat. Podsjećam da je ovo bila utkamica Lige prvaka.
+
+[gallery link="file" columns="4" ids="19993,19994,19995,19996,19997,19998,19999,20000,20001,20002,20003,20004,20005,20006,20007,20008,20009,20010,20011,20012,20013,20014,20015,20016,20017,20018,20019,20020,20021,20022,20023,20024,20025,20026,20027,20028,20029,20030,20031"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/ddebb296-f931-4a52-9cd7-be5c6d566900","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Nogomet: Dinamo - Olympiacos"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["21. 10. 2015.",""," · Nogomet, Sport"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

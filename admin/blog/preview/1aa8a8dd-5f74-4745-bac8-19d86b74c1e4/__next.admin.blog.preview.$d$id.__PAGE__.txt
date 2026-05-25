@@ -1,0 +1,56 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Tbf5,Nikako da mi dosadi taj Amsterdam. Evo me četvrti put tamo i već si mislim kako bi bilo zgodno i peti put navratiti. Ako svako ima neki svoj grad u koji je zaljubljen osim svog grada onda je Amsterdam moj drugi grad.
+
+ 
+
+Drugi tjedan godišnjeg smo trebali provesti u Londonu, ali je grah tak opal da smo opet završili u Amsterdamu.
+
+ 
+
+Ranojutarnjim letom iz Edinburgha smo sletjeli na Schipol, sjeli u taxi i uskoro po kanalima vozili slalom između biciklista.
+
+ 
+
+Kako smo tu već domaći nije bilo standardnog pritiska koji se stvori u svakom novom gradu da se mora posjetiti to i to u tom i tom roku. Sve je bilo laganini i za gušt. Šetnja, odmaranje, kavica na kanalu, kobase u Hemi, malo šopinga, porcija onog finog krumpira... Ništa posebno, a opet jako posebno. Čak sam i fotkanje smanjio na minimum pa će biti samo par postova :)
+
+ 
+
+Sve pametno kaj sam imao za reći sam već rekao u prošlogodišnjim postovima pa ako vas zanima onaj tekstualni dio onda kliknite <a href="http://foto.drusany.com/category/gradovi/amsterdam-gradovi/" target="_blank" rel="noopener noreferrer">ovdje </a>i bacite oko na moje amsterdamske doživljaje iz 2007., 2008. i 2012.
+
+ 
+
+I ove godine sam propustio gay paradu za samo jedan dan. E to bi bila galerija. Takvih likova, kostima i slavlja se ne viđa često.
+
+ 
+
+Grad je standardno krcat turistima, a travnate površine po sunčanom vremenu stenju pod okupacijom domaćih i stranih posjetitelja.
+
+ 
+
+Od mog zadnjeg posjeta velika je novina ponovno otvorenje Rijksmuseuma, najpoznatijeg muzeja u gradu koji se dugo renovirao. Imali smo <em>cunning plan</em> posjetiti ga, ali visoka cijena karte za nešto što nas u biti ne zanima nas je preusmjerila na šetnju okolo muzeja i u mali parkić do muzeja.
+
+ 
+
+Na Damu gužva kao i obično. Golubovi lete i seru, ljudi čekaju u redu za Madame Tussauds, naslikavaju palaču, sjede oko Unitya, kupuju u Bijenkorfu, a ulični zabavljači skupljaju sitniš da isplate svoje maskiranje i naslikavanje s klincima.
+
+ 
+
+U Amsterdamu ćete vidjeti i čudan način proslave djevojačke večeri. Naime postoji neko vozilo s pedalama, nazvat ćemo ga veliki bicikl na koji natrpaju cure koje slave i tjeraju ih da pedaliraju te tako pokreću taj bicikl. Taman su se stale na mostu na kanalu pored nas i po zadihanosti i padu vesele atmosfere bi rekao da je to jedan mazohistički način proslave djevojačke. Istina je da je taj bicikl ujedno i veliki šank i da se stalno cuga, ali meni to više liči na galiju nego veselo pedaliranje.
+
+ 
+
+Vrijeme je bilo raznih raspoloženja pa su takve i fotke. Za one sa lošijim vremenom i sivijim bojama sam koristio neki Polaroid filter u obradi dok je za one sunčane bio dovoljan našerafljeni cirkularni polarizotor.
+
+ 
+
+[justified_image_grid ids="15310,15311,15312,15313,15314,15315,15316,15317,15318,15319,15320,15321,15322,15323,15324,15325,15326,15327,15328,15329,15330,15331,15332,15333,15334,15335,15336,15337,15338,15339,15340,15341,15342,15343,15344,15345"]
+
+ 0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/1aa8a8dd-5f74-4745-bac8-19d86b74c1e4","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Amsterdam 2014. I"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["11. 09. 2014.",""," · Gradovi"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

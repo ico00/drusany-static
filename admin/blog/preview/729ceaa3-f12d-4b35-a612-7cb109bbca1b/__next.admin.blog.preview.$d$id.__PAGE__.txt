@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T645,<a href="http://blog.drusany.com/2011/05/08/dr-organ-vida-o-ljudima/screen-shot-2011-05-08-at-3-17/" rel="attachment wp-att-1338"><img src="/uploads/wordpress/2011/05/Screen-shot-2011-05-08-at-3.17.jpg" title="Screen-shot-2011-05-08-at-3.17" width="398" class="aligncenter size-full wp-image-1338" /></a>
+
+Malo prije sam dobio lijepu vijest da je ekipa iz <a href="http://organvida.com" target="_blank" title="Organ vida" rel="noopener noreferrer">Organa vida</a> odabrala moju fotku za finalnu postavu f<a href="http://organvida.com/index/zapoeo-natjeaj-zagrebakog-festivala-fotografije-organ-vida.html" target="_blank" rel="noopener noreferrer">oto natječaja "O ljudima"</a> koji je dio 3. festivala fotografije.
+
+Festival fotografije će trajati od 19. - 21.05. u prostorijama studentskog centra u Zagrebu, a izložba se poslije seli. Prvo gostovanje će biti u Novom Sadu.
+
+Ne znam kolko je točno ljudi slalo fotke, ali Evo, napisali su da je na natječaj 307 autora poslalo ukupno 1275 fotografija, a na izložbi će biti <a href="http://organvida.com/index/rezultati-natjeaja-qo-ljudimaq.html" target="_blank" rel="noopener noreferrer">50 fotografija od 33 autora</a>, a ovo je ta fotka.
+
+<a href="http://blog.drusany.com/2011/05/08/dr-organ-vida-o-ljudima/ivica-drusany-05/" rel="attachment wp-att-1328"><img src="/uploads/wordpress/2011/05/ivica-drusany-05.jpg" title="ivica-drusany-05" width="470" class="aligncenter size-full wp-image-1328" /></a>
+
+Snimio sam je prije par godina u Amsterdamu za vrijeme trajanja jedne od najvećih svjetskih gay parada (bio sam samo prolaznik :)
+
+0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/729ceaa3-f12d-4b35-a612-7cb109bbca1b","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Organ vida - \"O ljudima\""}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["08. 05. 2011.",""," · Info"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

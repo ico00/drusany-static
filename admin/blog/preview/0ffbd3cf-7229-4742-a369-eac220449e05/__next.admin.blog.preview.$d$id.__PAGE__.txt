@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T7e4,I ovaj vikend sam navratio na baseball u nadi da ću nekaj bolje uloviti u kadar. Igrale su se <strong>finalne utakmice hrvatskog kupa</strong>, a u 10h je na rasporedu bila tekma između <strong>Zagreb</strong> i <strong>Medvednice</strong>.
+
+ 
+
+U doba kad smo kolega i ja došli do terena sunce je nemilice pičilo bez oblačka na nebu, pa su sjene jake i oštre i onda je još bilo u nekoj glupoj poziciji pa je sve isprano i čudno zgledalo za fotkat. Kad se tome doda fotkanje kroz gustu zelenu mrežu rezultati su mi daleko od zadovoljavajućeg.
+
+ 
+
+Najbolja pozicija je definitivno desno od <em>battera</em> kroz u prošlom postu spomenutu rupu u mreži. Pozadina se može dovoljno odlijepiti, boje su normalne jer nema mreže, kadar je zanimljiv i na idealnoj je udaljenost za 135mm na FF. No kako sam šarao sa pozicijama i objektivima boje su na većini odvratne pa sam sve pobacao u dosta kontrastnu C/B varijantu. Isprike trendseterima kaj nisam polil varikinu po fotkama.
+
+ 
+
+Ova nuklearna osvjetljenost terena mi je omogućila da po prvi put u životu odšerafim ekspoziciju na <strong>1/8000s</strong>, i da pri tom ne masakriram ISO. Tome je doprijenela i f/2.0 pa sam to sve izvukao na solidnih ISO 640. Možda se ovo čini kao overkill, ali ako uzmete u obzir da loptica juri poprilično brzo i da sam ju na prošloj tekmi uspio kolko tolko zamrznuti tek pri 1/3200s onda je 1/8000s opravdano. Malo sam guglao i u prosjeku klasični <em>fastball</em> juri oko <strong>150 km/h</strong>. OK, ovo nisu profići i loptica je sigurno osjetno sporija, ali svejedno je prokleto brza. Puno fotki sam trebao ispucati da se uopće pojavi u kadru jer jelte 5D MK II baš i nema nešto previše fps.
+
+ 
+
+[justified_image_grid ids="15847,15848,15849,15850,15851,15852,15853,15854,15855,15856,15857,15858,15859,15860,15861,15862,15863,15864,15865,15866,15867,15868,15869,15870,15871,15872,15873,15874,15875,15876,15877,15878,15879,15880,15881,15882,15883,15884,15885,15886"]
+
+ 
+
+ 
+
+ 0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/0ffbd3cf-7229-4742-a369-eac220449e05","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Baseball: Zagreb - Medvednica"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["13. 10. 2014.",""," · Sport"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

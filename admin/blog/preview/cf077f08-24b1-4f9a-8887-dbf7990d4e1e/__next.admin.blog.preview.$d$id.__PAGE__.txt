@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Tbe9,Ako već nisam prije spomenuo napominjem sada da je Edinburgh brdovit grad. Ako niste u kondiciji to ćete vrlo brzo osjetiti. Ali ima jedno brdo u gradu koje morate posjetiti, a zove se <strong>Calton Hill</strong>. Na njemu imate par spomenika koje možete pogledati, ali gore se dolazi zbog pogleda. Baš kako sam u prošlom postu hvalio pogled na prirodu i grad u daljini sa Arthur's seata tako ovdje hvalim i preporučam pogled na grad koji vam je pred nosom.
+
+Svaka foto galerija, svaki dućan koji prodaje postere ili fotografije sigurno će imati seriju fotki sa ovog brda. Ovo je svakako turistički, ali i fotografski <em>must see</em>.
+
+ 
+
+Jako sam se veselio odlasku na Calton hill pa sam ga pažljivije planirao i čekao lijepo vrijeme, pogledao kada je zalazak sunca odnosno plavi sat i uputio se na brdo na jedan mali foto session. No, od wow fotki koje sam planirao napraviti dobio sam samo OK fotke. Naime <strong>Dugald Stewart Monument</strong> koji je na skoro svakoj fotografiji sa ovog brda nije osvjetljen po noći. Tako da kada je konačno plavi sat nastupio dobijete lijepu pozadinsku boju a prednji plan u mraku što i nije baš neka sreća. Bez fleševa i trigera kojima bi osvjetlio spomenik nije se moglo ništa. Kad kažem da je plavi sat konačno nastupio mislim na čekanje na jakom vjetru koji je šibao gore. Došao sam na vrijeme i sve isplanirao, odnosno mislio sam da sam sve isplanirao, ali sam zaboravio da sam na sjeveru i da ta cijela procedura traje osjetno dulje. Kao prvo zalazak sunca u kolovozu je tek oko 21:30, a plavi sat nikako da dođe. Čak i kada je sunce zašlo nikako se nije pojavljivala ona plava boja koju mi fotografi  toliko volimo. Kod nas se to vrlo brzo odigra. Nakon zalaska čekaš malo, pa imaš maksimalno 10 minuta za fotkanje.
+
+ 
+
+Uglavnom željene fotke nisam napravio, ali to nikako ne umanjuje odličan pogled i uživanciju na brdu. Zanimljivo je bilo i kako sam naravno nabasao na još nekoliko fotografa koji su već bili poslagani u liniji sa stativima i čekali isto što i ja.
+
+E sad, mom savjet bi bio da ako imate želje i volje da se popnete na brdo kada je izlazak sunca jer će vam sunce koje se diže iza vaših leđa lijepo obasjati spomenik i ako bude lijepo vrijeme imat ćete savršene fotke. Jedini problem je što sunce u Edinburghu početkom kolovoza izlazi oko 4:30 pa se treba stvarno rano dignuti ili jednostavno nakon posjete nekom pubu samo produžiti gore :)
+
+ 
+
+Osim Dugald Stewart Monumenta na Calton Hillu ćete naći <strong>National monument, </strong><strong>Nelson monument i <a href="http://www.collectivegallery.net" target="_blank" rel="noopener noreferrer">Collective galeriju i zvjezdarnicu</a></strong>. Koliko sam skužio na Nelson monument se možete popesti pa ćete dobiti još jedan odličan pogled na grad.
+
+ 
+
+[gallery columns="4" link="file" ids="14744,14745,14746,14747,14748,14749,14750,14751,14752,14753,14754,14755,14756,14757,14758,14759,14760,14761,14762,14763,14764,14765,14766,14767"]
+
+ 
+
+ 0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/cf077f08-24b1-4f9a-8887-dbf7990d4e1e","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Edinburgh: Calton hill"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["24. 08. 2014.",""," · Edinburgh, Gradovi, Putovanja"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T4b6,Neki dan stiže mail sljedećeg sadržaja:
+
+<em>"Poštovani, ovim putem vas obavještavam kako je GNK Dinamo sklopio sporazum oko organizacije utakmica <strong>Arapskog klupskog prvenstva</strong> između klubova <strong>Al Ain</strong> i <strong>El Setif</strong> koje će se igrati na stadionu Hitrec Kacijan..."</em>
+
+Mislim si neka šala, News Bar, junk mail ili nešto slično, a kad ono stvarno.
+
+Na kraju se ipak igralo na glavnom terenu u 18h, upad je bio besplatan, ali na jedinoj otvorenoj, zapadnoj tribini sjedila je samo manje grupica ljudi koje se komotno moglo prebrojati, vjerojatno ambasade i slični uzvanici.
+
+Još uvijek ne znam kojim povodom su nas posjetili Arapi, ali eto i to smo vidjeli na Maksimiru. Utakmica ne baš pretjerano zanimljiva, Mamićev Al Ain izgubio <strong>1:2</strong>, ali fotkanje po danu je uvijek zanimljivije nego ona agonija pod reflektorima.
+
+[gallery ids="28562,28563,28564,28565,28566,28567,28568,28569,28570,28571,28572,28573,28574,28575,28576,28577,28578,28579,28580,28581,28582,28583,28584,28585,28586,28587,28588,28589,28590,28591,28592,28593,28594,28595,28596,28597,28598,28599,28600,28601,28602,28603,28604,28605,28606,28607,28608,28609"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/bf58dae9-2e2b-4b23-9809-48764861a79d","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Nogomet: Al Ain - ES Setif"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["01. 08. 2018.",""," · Nogomet, Sport"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

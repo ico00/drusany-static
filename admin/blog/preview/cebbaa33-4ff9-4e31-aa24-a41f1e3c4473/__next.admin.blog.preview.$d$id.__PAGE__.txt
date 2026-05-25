@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T4d6,Sve ostale borbe na Final fightu su zasjenjene sa borbom Crop Cop – Sefo. Zato ću ja ovdje dati malo prostora svom kumeku Ivanu Posavcu koji  je unatoč dužoj pauzi nedavno opet zaredao neke borbe. Na Final fightu ga je zapao jedan od boljih slovenskih boraca Miran Fabjan.
+
+ 
+
+Budući da su Posavcu na službenoj stranici čak i godine krivo napisali a pobjede i poraze nisu uopće napisali budem ja nabacio neki detalj.
+
+ 
+
+Dakle nema 29 nego 30 godina, a što se tiče dosadašnjih rezultata tu je naslov europskog amaterskog prvaka iz 2004., a od 2002. do 2007. je bio prvak hrvatske u tajlandskom i K1, dva puta otvoreni prvak Hrvatske u kick boksu, pet puta otvoreni prvak Slovenije u tajlandskom boksu,  peto mjesto na svjetskom prvenstvu u tajlandskom boksu, dva puta sudionik europskih S1 kvalifikacija.
+
+ 
+
+Na žalost u zagrebačkoj Areni Fabjan je unatoč želučanim problemima bio bolji, agresivniji i zasluženo pobijedio nakon jednoglasne odluke sudaca.
+
+ 
+
+Slijedi malo veća galerija...
+
+ 
+
+[gallery link="file" columns="4" ids="3742,3743,3744,3745,3746,3747,3748,3749,3750,3751,3752,3753,3754,3755,3756,3757,3758,3759,3760,3761,3762,3763,3764,3765,3766,3767,3768,3769" orderby="post_date"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/cebbaa33-4ff9-4e31-aa24-a41f1e3c4473","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Final fight: Ivan Posavec vs. Miran Fabjan"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["12. 03. 2012.",""," · Sport"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

@@ -1,0 +1,18 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T588,U Zandvoortu, mjestu nedaleko od Amsterdama dočekalo nas je loše vrijeme, ali nas to nije omelo da uživamo. šetnja po pješčanoj plaži, skupljanje školjki, fotkanje galebova i nogometaša, svježi morski zrak. Sve u svemu jako lijepi izlet. Razumijem da su Nizozemci očajni što se mora tiče, ali ulaziti i kupati se u toj prljavštinu mi se čini jako očajno.  A navodno dolazi i ogroman broj Nijemaca da se okupa u tom čudu.
+Kad je kiša već postala ozbiljnija, povukli smo se sa plaže i krenuli prema unutrašnjosti.
+
+Mali kafići, restorani, dućani u malim uličicama. Na kraju smo sa klincima završili u Arcade parku, odnosno mjestu sa puno igrica. Odmah sam se sjetio dana osnovne škole i trošenje ušteđevine na razne automate. Samo kaj su ovi puno napredniji nego oni kojih se ja sjećam :-) Naravno morao sam probati simulaciju Ferrarija, a nisam se sramio niti zapucati po teroristima ili zaigrati partiju air hokeja.
+
+Ljubiteljima auto utrka Zandvoort je poznat i po tome što ima stazu na kojoj se od 1952. do 1985. vozila velika nagrada Nizozemske.
+
+Na putu do auta, srce mi je zaigralo kada sam vidio dućan sa F1 modelima, opremom, figurama, sjedalicama za klince... Morao sam brzo pobjeći van prije nego si kupim npr. sat u obliku volana iz Ferrarijevog bolida.
+
+ 
+
+[gallery link="file" ids="5003,5004,5005,5006,5007,5008,5009,5010,5011,5012,5013" orderby="post_date"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/474f43d5-019c-4b93-af94-f3e924ca2e96","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Nizozemska: Zandvoort"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["08. 09. 2008.",""," · Gradovi, Putovanja"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

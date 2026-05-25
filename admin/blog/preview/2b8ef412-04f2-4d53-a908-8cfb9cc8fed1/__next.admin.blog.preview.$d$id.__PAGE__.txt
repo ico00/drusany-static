@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T7bf,Prošla je točno godina dana otkad sam zadnji put slikao nogomet. Ne mogu vjerovati da me tak dugo nije bilo. Prošli put sam bio na Temišvaru s kojim se Dinamo borio za europsko proljeće, ali smo tu ovisili i o drugim faktorima. Ovaj put je Dinamo imao sudbinu u svojim rukama. Trebao je pobjediti PAOK-a i konačno bi dočekali i to europsko proljeće.
+
+ 
+
+Vani je bilo prokleto hladno. Iako temperatura od -4°C nije tako strašna, na terenu je uvijek užasno hladno. Za razliku od prošlogodišnje tekme i doslovno praznog stadiona, večeras je stadion bio ugodno popunjen unatoč toj hladnoći. Možda zato jer je Maminjo djelio šal i kapu uz svaku kupljenu ulaznicu :-)
+
+ 
+
+Ali ne bi Dinamo bio Dinamo kad bi odigrao dobru tekmu u pravo vrijeme. Po novinama piše da su kao bili dobri prvo poluvrijeme, ali ja to baš i nisam primjetio. Izgleda da su se svi popederili i više vremena provodili birajući kako će im njihove super duper kopačke izgledati i kojih sve veselih boja će biti po njima nego što su se posvetili utakmici. Uglavnom tradicija se nastavlja. Ništa od proljeća.
+
+ 
+
+Iako je stadion bio popunjen navijanje je također bilo ojadno. Kako je moj prijatelj rekao, na sjever su zasjeli miševi dok mačaka nema. Čulo se puno dječjih glasova što mi je bilo dosta smješno s obzirom da sam navikao da se sa sjevera trese ako se već navija. Bez previše transparenata, pjesme, pravog bodrenja... jadna igra, jadno navijanje i jadan  stadion..sve je skompletirano.
+
+ 
+
+Ma u biti neću više habati  tastaturu na njih.
+
+ 
+
+Vani je bilo hladno, aparat je radio čudnovato, valjda se i on bogec smrznuo. Rasvjeta je bila takva da sam izvukao ISO 1250 i 1/500s pri f/2.8
+
+ 
+
+Eto, dragi moji baletani…jadni ste.
+
+ 
+
+Evo i mala šaljiva nadopuna na koju sam nabasao na fejsu "Izgleda da će samo Sanader prezimiti u Europi..."
+
+ 
+
+[gallery link="file" columns="4" ids="943,944,945,946,947,948,949,950,951,952,953"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/2b8ef412-04f2-4d53-a908-8cfb9cc8fed1","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Dinamo:PAOK"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["15. 12. 2010.",""," · Nogomet, Sport"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

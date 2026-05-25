@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T465,Evo i zadnjeg posta sa Final fighta i galerije fotografija od preostalih 7 borbi.
+<ul>
+	<li>Toni Milanović vs. Sahak Parparyan</li>
+	<li>Michael Duut vs. Stefan Jelić</li>
+	<li>Agron Preteni vs. Guy Pacome Assi</li>
+	<li>Mladen Kujundžić vs. Marin Došen</li>
+	<li>Mladen Brestovac vs. Mourad Bouzidi</li>
+	<li>Igor Jurković vs. Freddy Kemayo</li>
+	<li>Daniel Ghita vs. Sergej Laschenko</li>
+</ul>
+ 
+
+Sve u svemu zanimljva priredba pogotovo zato jer se ne sjećam kad je zadnji put bilo nešto slično u Zagrebu. Prava je šteta kaj Arena nije bila puna. Ne znam da li je to propust organizacije ili nezainteresiranost publike, ali ne mogu vjerovat da se nije moglo skupiti dovoljno ljudi zainteresiranih za ovakvu vrstu akcije.
+
+ 
+
+Unatoč propustima organizatora oko fotografiranja ja sam se dobro zabavio i 3 sata je prošlo brže nego jedno poluvrijeme Dinamove utakmice.
+
+ 
+
+[gallery link="file" columns="4" ids="3789,3790,3791,3792,3793,3794,3795,3796,3797,3798,3799,3800,3801,3802,3803,3804,3805,3806,3807,3808,3809,3810,3811,3812,3813,3814,3815,3816,3817,3818" orderby="post_date"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/dc02983b-524d-40e9-8c60-31b95ee629a5","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Final fight: Ostale borbe"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["13. 03. 2012.",""," · Sport"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Tf5d,Poziv od <a href="http://www.buntovnikbezakorda.com" target="_blank" rel="noopener noreferrer">Buntovnika</a> uhvatio me nespremnog. Kaže ajde idemo na <strong>Gang of Four</strong>, ti fotkaj ja ću pisat. Trebalo mi je malo da se uopće sjetim ovog kultnog benda. Nisam ih onako konkretno slušao dosta dugo..negdje od srednje škole, pa sam prihvatio ponudu - "<em>Chalenge accepted"</em> rekao bi Barney.
+
+Vjerujem da su svi znaju da su u Zagrebu prvi put nastupili 1981. na <strong>Zagrebačkom Biennaleu</strong> i ostavili dubok glazbeni trag u ovim krajevima. Legenda kaže da se <strong>Jon King</strong> ukopao od straha prije izlaska na pozornicu jer do tada nisu nastupali pred toliko ljudi.
+
+Zahvaljujući dobrom duhu rock and rolla naših prostora <strong>Goranu Polaku </strong>AKA<strong> Stražarnom lopovu </strong><a href="http://strazarni-lopov.blogspot.com/2012/01/music-biennale-zagreb-1981.html" target="_blank" rel="noopener noreferrer">ovdje</a> možete pogledati i kratki video sa tog nastupa.
+
+ 
+
+No vratimo se u sadašnje stanje. Jučer je došao taj dan da vidimo i čujemo kako to zvuči Gang of Four sa samo jednim originalnim članom, <strong>Andyem Gillom</strong>, genijalnim gitaristom kojeg su čak uspoređivali i sa Hendrixom. Nakon skoro pola sata kašnjenja od najavljenog termina, dečki su u kožnim kaputima lagano ušetali na scenu u rukama držeći staklene vinske čaše.
+
+Te prve tri stvari iz foto pita nisam pravo ni doživio, što zbog borbe za dobrom fotkom pod onom glupom LED rasvjetom, a što zbog lošeg zvuka koji se čuo uz sami rub pozornice.
+
+Nakon fotkanja sam se povukao do frendova u penzionerski zadnji red do tribine, spustio ruksak i uživao u onom što je slijedilo. Možda je to stvarno više cover band nego pravi Gang of Four kako bi rekao Buntovnik, ali ono što se dešavalo na sceni je izgledalo i zvučalo odlično. Pjesme su ostale, muzika je ostala, a to je ono najbitnije. <strong>John Sterry</strong>,vokal koji je s bendom od 2012. možda je bio na trenutke prenapadan ili isforsiran, ali meni svejedno dobro zvučao, skakao je okolo, sve u svemu kod mene ima 5 iz zalaganja.
+
+ 
+
+Bilo je i starih i novih stvari, baš kako je Andy u intervjuima prije koncerta i najavio pa tako i meni omiljena "<strong>Damaged Goods</strong>". No to je bio jedan vrlo kratki presjek jer se nakon sat vremena (?!) dečki kupe s pozornice. OK, nisam očekivao maratonski koncert, ali sat vremena je ipak bila pljuska. Na bis se vraćaju kako bi odsvirali još tri stvari. Druga na bisu je neizostavna "<strong>I Love a Man in Uniform</strong>" da bi se na kraju kao za ozbač oprostili sa "<strong>Return the Gift</strong>". No međutoa dozvali smo ih na još jedan kratki povratak i kultno <strong>razbijanje mikrovalke</strong> uz "<strong>He'd send in the Army</strong>" koje je Sterry naslijedio od Kinga.
+
+I tada je nastup za stvarno završio..nakon sat i pol. Šteta.
+
+ 
+
+Inače Tvornica nije bila do čepa puna. Šteta jer ovi dečki to zaslužuju što god da zli jezici govorili, ali dobro za mene jer sam prvi put iz ovog kluba izašao suh i pri totalnoj svijesti. Osjetio se friški zrak svako malo što znači da je klima odradila svoje, iza je bilo dosta mjesta pa nije bilo potrebe za vađenjem tuđih lakat iz bubrega. Iako, riskirao sam ozbiljan knockout jer sam stajao iza najvećeg hrvatskog obožavatelja benda koji se u pomalo nepredvidljivim pokretima klatario oko svoje osi. Bio je velik kako po štovanju Andya i društva, tako i po dimenzijama pa me jedan od njegovih naglih trzaja glavom u nazad mogao uspavat bez većih problema. Ali ipak sam živ dočekao kraj ovog sprinterskog koncerta.
+
+ 
+
+[gallery ids="17958,17959,17960,17961,17962,17963,17964,17965,17966,17967,17968,17969,17970,17971,18002,17972,17973,17974,17975,17977,17978,17979,17980,17981,17982,17983,17984,17985,17986,17987,17988,17989,17990"]
+
+ 0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/01131c57-62b3-4085-8603-940946827b8e","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Gang of Four"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["25. 04. 2015.",""," · Koncerti"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

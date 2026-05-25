@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Tb17,
+<p>Prošlo je 4 godine otkako sam fotkao <strong>Električni orgazam</strong> na krovu <a href="http://foto.drusany.com/2015/07/19/elektricni-orgazam/" target="_blank" rel="noreferrer noopener">MSU-a</a>, vjerojatno je toliko prošlo i od njihovog zadnjeg koncerta na kojem sam bio, ali sam htio u živo čuti predstavljanje prošlogodišnjeg albuma <strong>Gde smo sad</strong> u <strong>Tvornici kulture</strong>. Za njega baš kao i za onaj prije (To što vidiš to i jeste) bend i kritika govore da je nešto najbolje što su snimili.</p>
+
+
+
+<p>Na prvo slušanje mi album nije lego, ali mi polako sjeda u uho, vjerojatno je mi je u Deezer historyu među slušanijim albumima. <br /></p>
+
+
+
+<p>Orgazam nije bend koji dere isti zvuk od svog nastanka tako da je i ovaj album potpuno osvježenje, čak malo pomaknuto, iz rubrike “očekujte neočekivano”. I jučer je uživo to dobro zvučalo, svježe. Slušaš, gledaš i ne vjeruješ kaj to Gile radi s tim glasom i kakvi su to skokovi u stilovima. <br /></p>
+
+
+
+<p>Naravno ništa nema prođu kao stari hitovi, pa onda podmuklo otvoriš koncert s Krokodilima i Konobarom da publika lakše proguta novi materijal. Koliko sam uspio škicnut setlistu solidne 24 pjesme bile su garant dobre zabave uz klasičan miks staro-novo.<br /></p>
+
+
+
+<p>Inače postava je i dalje u sastavu s našeg lijeva prema desno <strong>Ljuba, Gile, Pače, Švaba i Banana</strong> koja je na pozornicu izašla pred lagano pregrađenom Tvornicom tako da je jedan oldtimer stao ispred mene na ogradu uz ispriku da su mu pregradili tribine pa da se mora osloniti na ogradu da izdrži do kraja koncerta. Dakle publika je bila uglavnom starija koliko sam ja uspio šacnut, neki su stvarno odavali dojam da baš nisu svaki vikend na koncertima, ali su na ovaj morali doći  što je Beograđanima veliki kompliment, a mojim zlim prijateljima koji su na upit “jeste u Tvornici” komentirali “To sam prestao nakon dvadeset treće” još jedan dokaz da ne mlate svi mrtvog konja i da stara garda može rokati bolje od raznih nadobudnih balavandera koji misle da su primili boga za muda.<br /></p>
+
+
+
+<p>Tvorničko “kućno” svjetlo standardno iritantno loše tako da fakat razmišljam odustati od borbe s fotkanjem u tim uvjetima jer sve izgleda jednako loše, ali nikad ne znaš kad će tko dovući svoju produkciju kada stvar postaje druga priča. <br /></p>
+
+
+
+<figure class="wp-block-pullquote is-style-default"><blockquote><p><em>Kamerom snimam sve<br />Da sutra setim se<br />Šta je bilo sve<br />Gde sam bio pre</em></p><br /></blockquote></figure>
+
+
+<p>[gallery ids="30361,30362,30363,30364,30365,30366,30367,30368,30369,30370,30371,30372,30373,30374,30375,30376,30377,30378,30379,30380,30381,30382,30383,30384,30385,30386,30387,30388,30389,30390,30391,30392,30393,30394,30395,30396"]</p>
+
+
+<p></p>
+0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/ef744bb2-dd80-4e6e-b673-809b80164ef9","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Električni orgazam"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["14. 04. 2019.",""," · Koncerti"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Tdb5,Jedno od zgodnih i povoljnih mjesta za klopanje je restoran u samom centru grada na vrhu robne kuće Bijenkorf. Izbor klope je velik, a restoran funkcionira na principu menze, ali uređenje i sve ostalo nije ni približno običnoj menzi. Nakon ručka, preporučam ispijanje kave u njihovom bircu koji ima i otvorenu terasu sa prekrasnim pogledom. Uz Illy kavu koju nude možete maznuti i neki kolačić za potpuni doživljaj.
+
+ 
+
+Još jedno mjesto uz koje ide poseban doživljaj je naravno Hard rock caffe. Ima li boljeg osjećaja od izjedanja nekakvog steaka uz zvuke normalne muzike okružen raznim rock suvenirima i fotografijama velikana.  Naravno za stol ćete pričekati i preko pola sata jer je tamo uglavnom gužva. Ali možete jesti i dole u baru.
+
+ 
+
+Čitao sam da se kod nas na moru nekakav odrezak bez problema plaća 150kn. Tamo je oko 135kn. Dakle centar Amsterdama, poznati lanac restorana. Ne neka prčija na moru.
+
+ 
+
+Steak i prilozi, 2 hamburgera i prilozi, 2 koktela i juice su izašli oko 500kn. Naravno bio bi red da ubacite i napojnicu jer kako piše na računu usluga nije uračunata u cijenu. Dakle ništa puno više nego u nekom normalnom zagrebačkom ili dalmatinskom restoranu.
+
+ 
+
+Ako volite pizzu ne smijete propustiti <a href="http://www.newyorkpizza.nl/Default.aspx" rel="noopener noreferrer">New York pizzu</a>, a preporučam pepperoni. Bila je zgodna epizoda dok smo razmišljali da li da uzmemo par sliceova ili cijelu, pa nismo znali veličinu, a cura koja radi tamo digne tanjur i kaže na tečnom jugoslavenskom "ovolika je" :)
+
+ 
+
+Kad smo već kod cijena, kruh je npr. 1e, dva pakirana krmića su 3e, pileća prsa oko 2.5e...uglavnom cijene u dućanu su nešto malo više nego kod nas.
+
+ 
+
+Ako idete u dućan, vjerojatno ćete završiti u <a href="http://www.ah.nl/" rel="noopener noreferrer">Albert Heijnu</a>.  Tamo je uvijek prokleto hladno od njihovih škrinja, pa se toplije obucite :) Također možete ostaviti svoj Master Card doma jer ga ne primaju. Samo keš i PIN card, odnosno Maestro.
+
+ 
+
+Kaj se tiče robe reći da sam u O'Neilu za 100e kupio duge hlače, kratke hlače, i dvije majice kratkih rukava. Bez problema našao broj, model i boju. Sve na akciji. Probajte to izvest kod nas. Toliko o tome kako je to vani sve skupo i kako putuju i kupuju samo oni koji imaju puno love. Istina je da se uz malo truda može ušparat, a ne potrošit više.
+
+ 
+
+Popusta nema jedino na starke (Conversice) koje su i tamo ludo popularne i svi ih nose. Muško, žensko, staro mlado.
+
+ 
+
+U modi je i sve iz 80-ih. Uđeš u dućan i kao da gledaš stari obiteljski album. Stare Adidas torbe, tenisice, špagerice, natikače.. nevjerojatno.
+
+ 
+
+Još jedna stvar koja mi se kod nizozemaca jako sviđa su after job partiji. Nakon 6 sati sve je puno ljudi u odijelima koji su po bircevima ili brodovima i opuštaju se nakon radnog dana.
+
+ 
+
+Ne smijem zaboraviti niti dućan na Flower marketu koji cijelu godinu prodaje božićne suvenire i odbrojava do Božića.
+
+ 
+
+Ukoliko ste željni malo avanture, provozite se amsterdamskim ulicama u taxi biciklima. Frajeri vole juriti, bacati vas po zavojima i prolaziti na 2mm od auta iz suprotnog smjera. Vriska i zabava zagarantirana.
+
+ 
+
+[gallery link="file" columns="4" ids="5307,5308,5309,5310,5311,5312,5313,5314,5315,5316,5317,5318,5319,5320,5321,5322,5323,5324,5325,5326,5327,5328,5329,5330,5331,5332,5333,5334,5335,5336,5337,5338,5339,5340" orderby="post_date"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/53bcaafb-5f6d-4e7c-a299-1a653987c686","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Nizozemska 2012: Amsterdam IV"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["19. 08. 2012.",""," · Gradovi, Putovanja"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

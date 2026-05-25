@@ -1,0 +1,52 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T13b1,<span>Već se duže vrijeme spremam kupiti neki kompakt koji bi uvijek bio uz mene u onim trenucima kad mi se jednostavno ne da tegliti ruksak. Ili kad nemam namjeru fotkati, a ipak nabasam na neki detalj pa se onda lupam po glavi jer nisam uzeo aparat.</span>
+
+Jedini problem je u tome kaj pošteni kompakt nije baš jeftin, a fotka koju pružaju oni jeftiniji mi nije na zadovoljavajućem nivou.
+
+Kako ja ovu akciju planiram već godinama tako je i razvoj onih kamera u mobitelima kojima smo se smijali u početku došao do ozbiljnijeg nivoa. Malo bolji mobiteli su sada u stanju napraviti više nego solidne fotke za kućnu upotrebu. Kako sam se nedavno obnovio po mobitelnom pitanju i nadogradio svoj stari iPhone 3GS na <strong>5C</strong> tako sam se malo više pozabavio fotkanju mobitelom.
+
+U odnosu na 3GS skok je fascinantan. Umjesto smiješnih zrnatih fotki za fejs dobijemo ozbiljne kandidate za printove formata 10x15cm koje slobodno možemo staviti u neki obiteljski album.
+
+Isprobao sam fotkanje sa 5C u raznim uvjetima i stvarno sam zadovoljan. Također sam napravio nekoliko printova na kućnom Selphyu 800 da se uvjerim da to nije neka zamka na Retina displayu, ali ako laže Retina ne laže print.
+
+Kao i kod DSLR-a i ovdje izbjegavam fotkanje sa flešom jer fotke izgledaju kao one okinute sa pop-up flešom na DSLR-u. No i taj problem je riješen na skupljim mobitelima. Tako npr. 5S ima True Tone flash odnosno 2 okidanja, pa se onda mjere optimalne boje i ostala čarolija.
+
+U 5C je ugurana kamera od <strong>8MP</strong>, kao i kod mog starog Canona 20D. Nije to vrh trenutne tehnologije, ali za socijalnu varijantu iPhonea je skroz OK.
+
+Kad ste u Camera modu na donjem slideru birate Video / Photo / Square / Pano za način snimanja. Također možete odabrati jedan od devet ponuđenih efekata.
+
+<img src="/uploads/wordpress/2014/04/IMG_4036.jpg" alt="IMG_4036" width="640" class="aligncenter size-full wp-image-13274" />
+
+Također mi se sviđa i AE/AF lock opcija koju aktiviramo tako da stisnemo i držimo 2 sekunde. Jako dobra opcija za fotkanje neba i sunca. Nađete željenu ekspoziciju pa bez problema samo prekadrirate i okidate.
+
+<img src="/uploads/wordpress/2014/04/IMG_3806.jpg" alt="IMG_3806" width="640" class="aligncenter size-full wp-image-13272" />
+
+Ako imate printer sa Airprint opcijom izrada fotki stvarno postaje pjesma.
+
+Naravno da ćete skupljim idiotima dobiti bolje fotke, ali ako niste picajzla i ako ne želite nositi dodatnu opremu, iPhone će itekako poslužiti.
+<h2>Vanjsko dnevno svjetlo</h2>
+Tu stvarno nemamo nikakvih problema i fotke su čistih prirodnih boja sa jako malo šuma.
+
+<img src="/uploads/wordpress/2014/04/IMG_3918.jpg" alt="IMG_3918" width="640" class="aligncenter size-full wp-image-13266" /> <img src="/uploads/wordpress/2014/04/IMG_4032.jpg" alt="IMG_4032" width="640" class="aligncenter size-full wp-image-13267" /> <img src="/uploads/wordpress/2014/04/IMG_4039.jpg" alt="IMG_4039" width="640" class="aligncenter size-full wp-image-13268" /> <img src="/uploads/wordpress/2014/04/photo.jpg" alt="photo" width="640" class="aligncenter size-full wp-image-13269" />
+<h2>Unutrašnje dnevno svjetlo</h2>
+I ovo je također vrlo iskoristiva opcija, ali šum je već dosta vidljiv.
+
+<img src="/uploads/wordpress/2014/04/IMG_3940.jpg" alt="IMG_3940" width="480" class="aligncenter size-full wp-image-13276" /> <img src="/uploads/wordpress/2014/04/IMG_3879.jpg" alt="IMG_3879" width="640" class="aligncenter size-full wp-image-13277" />
+<h2>Unutrašnje umjetno svjetlo</h2>
+Tu je situacija već dosta gadna. Za iskoristive fotke trebate i nešto jače svjetlo. Ako je ono pak prigušeno šum jede detalje, boje su gadne i kako to već ide.
+
+<img src="/uploads/wordpress/2014/04/IMG_3844.jpg" alt="IMG_3844" width="640" class="aligncenter size-full wp-image-13279" /> <img src="/uploads/wordpress/2014/04/IMG_3982.jpg" alt="IMG_3982" width="480" class="aligncenter size-full wp-image-13280" /> <img src="/uploads/wordpress/2014/04/IMG_3989.jpg" alt="IMG_3989" width="640" class="aligncenter size-full wp-image-13281" /> <img src="/uploads/wordpress/2014/04/IMG_4034.jpg" alt="IMG_4034" width="640" class="aligncenter size-full wp-image-13282" /> <img src="/uploads/wordpress/2014/04/IMG_4044.jpg" alt="IMG_4044" width="640" class="aligncenter size-full wp-image-13283" />
+<h2>Unutrašnje fotkanje bez svjetla</h2>
+OK, ne baš u mrklom mraku, ali u uvjetima poput koncerata. Tu je panika i fotke su drek. Opalite jednu za uspomenu, spremite mobitel u džep i uživajte u muzici, a fotkanje prepustite onim ljudima u foto pitu.
+
+<img src="/uploads/wordpress/2014/04/IMG_3860.jpg" alt="IMG_3860" width="640" class="aligncenter size-full wp-image-13285" /> <img src="/uploads/wordpress/2014/04/IMG_4038.jpg" alt="IMG_4038" width="640" class="aligncenter size-full wp-image-13286" />
+
+To je otprilike to. Sa današnjim mobitelima se definitivno može fotkat pa ako vam fotić nije pri ruci nije totalno gubljenje vremena iskoristiti mobitel.0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/ed26e621-2a84-4dc6-8ec0-30bb3601e92f","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"iPhone 5C foto osvrt"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["19. 04. 2014.",""," · Info"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

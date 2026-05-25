@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+3:I[662438,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js"],"default"]
+4:I[339756,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"default"]
+5:I[837457,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"default"]
+6:I[92825,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"ClientSegmentRoot"]
+7:I[388760,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js"],"default"]
+a:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+d:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"ViewportBoundary"]
+f:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"MetadataBoundary"]
+11:I[168027,[],"default"]
+:HL["/_next/static/chunks/8d9047047022f997.css","style"]
+:HL["/_next/static/chunks/96b8e20e975d060d.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2ba5a01c16198eaa-s.p.6d29afb5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70bc3e132a0a741e-s.p.15008bfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/797e433ab948586e-s.p.479bea2b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8780dfd0812b997c-s.p.5704523e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"dQrd5B9ZkKen4LBsT-noh","c":["","admin","blog","preview","fb312922-fdbd-4b61-800f-e98a2e66baeb"],"q":"","i":false,"f":[[["",{"children":["admin",{"children":["blog",{"children":["preview",{"children":[["id","fb312922-fdbd-4b61-800f-e98a2e66baeb","d"],{"children":["__PAGE__",{}]}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/8d9047047022f997.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/96b8e20e975d060d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/268cdd9821f58453.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/d3d2320bbbfed104.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable jetbrains_mono_7d65b77b-module__VxV-Ta__variable playfair_display_d5eda251-module__JGL7aG__variable shantell_sans_4e849407-module__LGDyyW__variable red_hat_display_6cf3e46-module__oTLDla__variable antialiased","children":["$L2",["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/e7ecb97c70cdaa39.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/41d3bd44d059c7c0.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"Component":"$7","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@8"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L9",[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true,"nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$b",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+8:"$0:f:0:1:1:children:0:props:children:1:props:serverProvidedParams:params"
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[27201,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"IconMark"]
+c:null
+10:[["$","title","0",{"children":"Drusany | Photography"}],["$","meta","1",{"name":"description","content":"Photography portfolio — portraits, landscapes and moments in natural light."}],["$","link","2",{"rel":"canonical","href":"https://drusany.com"}],["$","meta","3",{"property":"og:title","content":"Drusany | Photography"}],["$","meta","4",{"property":"og:description","content":"Photography portfolio — portraits, landscapes and moments in natural light."}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","7",{"name":"twitter:title","content":"Drusany | Photography"}],["$","meta","8",{"name":"twitter:description","content":"Photography portfolio — portraits, landscapes and moments in natural light."}],["$","link","9",{"rel":"icon","href":"/favicon.ico?favicon.36cd458d.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","10",{"rel":"icon","href":"/favicon.ico?v=2"}],["$","$L12","11",{}]]
+13:Tf3c,body { --theme-title-font: var(--font-red-hat-display), sans-serif; --theme-title-size: clamp(4rem, 7vw, 8rem); --theme-title-color: #ffffff; --theme-title-weight: 100; --theme-title-style: normal; --theme-heading-font: var(--font-playfair), Georgia, serif; --theme-heading-size: clamp(1.75rem, 4vw, 3rem); --theme-heading-color: #18181b; --theme-heading-weight: 400; --theme-heading-style: normal; --theme-headingH1-font: var(--font-red-hat-display), sans-serif; --theme-headingH1-size: 2.25rem; --theme-headingH1-color: #18181b; --theme-headingH1-weight: 400; --theme-headingH1-style: normal; --theme-headingH2-font: var(--font-red-hat-display), sans-serif; --theme-headingH2-size: 1.875rem; --theme-headingH2-color: #18181b; --theme-headingH2-weight: 400; --theme-headingH2-style: normal; --theme-headingH3-font: var(--font-red-hat-display), sans-serif; --theme-headingH3-size: 1.5rem; --theme-headingH3-color: #18181b; --theme-headingH3-weight: 400; --theme-headingH3-style: normal; --theme-headingH4-font: var(--font-red-hat-display), sans-serif; --theme-headingH4-size: 1.25rem; --theme-headingH4-color: #18181b; --theme-headingH4-weight: 400; --theme-headingH4-style: normal; --theme-headingH5-font: var(--font-red-hat-display), sans-serif; --theme-headingH5-size: 1.125rem; --theme-headingH5-color: #18181b; --theme-headingH5-weight: 400; --theme-headingH5-style: normal; --theme-headingH6-font: var(--font-red-hat-display), sans-serif; --theme-headingH6-size: 1rem; --theme-headingH6-color: #18181b; --theme-headingH6-weight: 400; --theme-headingH6-style: normal; --theme-headingOnDark-font: var(--font-red-hat-display), sans-serif; --theme-headingOnDark-size: clamp(1.85rem, 4vw, 3rem); --theme-headingOnDark-color: #ffffff; --theme-headingOnDark-weight: 400; --theme-headingOnDark-style: normal; --theme-pageTitle-font: var(--font-red-hat-display), sans-serif; --theme-pageTitle-size: clamp(1.85rem, 4vw, 3rem); --theme-pageTitle-color: #18181b; --theme-pageTitle-weight: 400; --theme-pageTitle-style: normal; --theme-blogPostTitle-font: var(--font-red-hat-display), sans-serif; --theme-blogPostTitle-size: clamp(1.85rem, 4vw, 2.5rem); --theme-blogPostTitle-color: #18181b; --theme-blogPostTitle-weight: 400; --theme-blogPostTitle-style: normal; --theme-blogListCardTitle-font: var(--font-red-hat-display), sans-serif; --theme-blogListCardTitle-size: clamp(1.85rem, 4vw, 2.5rem); --theme-blogListCardTitle-color: #18181b; --theme-blogListCardTitle-weight: 400; --theme-blogListCardTitle-style: normal; --theme-blogListCardMetadata-font: var(--font-geist-sans), Arial, Helvetica, sans-serif; --theme-blogListCardMetadata-size: 0.875rem; --theme-blogListCardMetadata-color: lab(47.8878% 1.65477 -5.77283); --theme-blogListCardMetadata-weight: 400; --theme-blogListCardMetadata-style: normal; --theme-widgetTitle-font: var(--font-red-hat-display), sans-serif; --theme-widgetTitle-size: 1.125rem; --theme-widgetTitle-color: #18181b; --theme-widgetTitle-weight: 400; --theme-widgetTitle-style: normal; --theme-body-font: var(--font-red-hat-display), sans-serif; --theme-body-size: 1.1rem; --theme-body-color: #3f3f46; --theme-body-weight: 400; --theme-body-style: normal; --theme-quote-font: var(--font-red-hat-display), sans-serif; --theme-quote-size: 1.2rem; --theme-quote-color: #e4e4e7; --theme-quote-weight: 400; --theme-quote-style: italic; --theme-code-font: var(--font-jetbrains-mono), ui-monospace, monospace; --theme-code-size: 1rem; --theme-code-color: #18181b; --theme-code-weight: 400; --theme-code-style: normal; --theme-nav-font: var(--font-red-hat-display), sans-serif; --theme-nav-size: 0.875rem; --theme-nav-color: rgba(255,255,255,0.9); --theme-nav-weight: 400; --theme-nav-style: normal; --theme-caption-font: var(--font-red-hat-display), sans-serif; --theme-caption-size: 1.2rem; --theme-caption-color: #71717a; --theme-caption-weight: 400; --theme-caption-style: normal; }2:["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$13"}}]
+14:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+15:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+16:T19fd,U zadnje vrijeme sve je teže neometano uživati u fotografiji a da vas ne zaskoči nekakav zakon, nekakva ljudska prava, antiterorizam, državne zgrade, privatni posjedi… Ma gdje god danas uperite aparat velika je vjerojatnost da ste u nekakvom prekršaju.
+
+ 
+
+Snimajte si klince u parku – <strong>pedofil</strong> ste, snimajte avione u blizini aerodroma – <strong>terorist</strong> ste, prošećite se u blizini plaže – <strong>seksualni predator</strong>, pofotkajte zgradu banke – <strong>lopov</strong>, ulovite život grada dok je špica – <strong>paparazzi</strong>, opalite fotku u muzeju - <strong>kulturocid</strong> i tako za kaj god vam padne na pamet.
+
+ 
+
+Da se razumijemo, apsolutno podržavam ljudska prava, pogotovo dječja i za pedofile bi rado aktivirao smrtnu kaznu baš kao i za teroriste, idiote koji blicaju ribama u akvariju bi našamarao…ali neutemeljeni paranoični strah i nesuvisle zabrane neće pomoći u smanjenju broja ovih nesretnika.
+
+ 
+
+Stvarnih bolesnih primjera ima bezbroj. Jedan od glupljih je onaj u Engleskoj gdje su u školskom godišnjaku klincima stavili onu crnu traku preko očiju. Roditelji više ne mogu fotkati dječje predstave i sportska natjecanja, a ako baš žele onda pismeno moraju tražiti odobrenje pa ako im se odobri dobiju neku narukvicu ili prsluk ili nešto slično da se zna da imaju dozvolu za fotkanje.
+
+Fotkanje klinaca u parku je već po cijelom svijetu riskantno. Nadobudni i priglupi roditelji neće prezati i od fizičkog kontakta kada vide aparat u blizini parka jer su ih kojekakvi mediji i pravobranitelji nahranili paranojom.
+
+ 
+
+Prošle godine je bio aktualan <a href="http://www.dailymail.co.uk/news/article-3136945/Absurd-new-EU-law-mean-ll-face-legal-action-taking-pictures-famous-landmarks-Photos-punished-breach-copyright.html" target="_blank" rel="noopener noreferrer">prijedlog zakona </a>o zabrani bilo kakve objave fotki na kojima se vide poznate znamenitosti, zgrade, umjetnička djela... Za objavu bi se trebala tražiti dozvola. Na sreću ovaj kretenizam nije prošao.
+
+ 
+
+U Mađarskoj je 2 godine na snazi zakon o zabrani odnosno objavi fotografija na kojoj su vidljivi ljudi čak i ako su na javnim površinama. Da bi fotografija bila „legalna“, svi prepoznatljivi ljudi na fotografiji vam moraju dati pisani pristanak. Ili moraju biti neprepoznatljivi.
+
+U Kuvajtu su pak zabranili SLR-ove jer su oni valjda strašni dok se može fotkat mobitelima i kompaktima.
+
+ 
+
+Pogledajte situaciju i po našim novinama i portalima. Maloljetnicima nekad zamuljaju facu nekad ne. Ili još bolje na naslovnici zamuljana, a u članku čista fotka. Debilizam na najjače.
+
+ 
+
+Samo čekam da se neka udruga javi pa traži da se zaštiti i identitet životinja u publikacijama.
+
+<img src="/uploads/wordpress/2016/08/MG_9851.jpg" width="500" class="aligncenter size-full wp-image-21626" />
+
+ 
+
+Uz sve te zakone i zabrane dodatne probleme će vam raditi i dežurni intelektualci koji eto misle da su u pravu. Jako često su to polupismeni zaštitari kojima je eto dosadno na poslu pa idu maltretirat poštene ljude jer oni jako dobro znaju zakon i sad će vama objasniti kaj smijete, a kaj ne.
+
+Divan primjer je opisan <a href="https://phnat.org/2016/02/26/security-call-filmmaker-lunatic-for-defying-nonsense-photo-ban/" rel="noopener noreferrer">ovdje</a>, a kako to izgleda u živo se vidi i na ovom filmu.
+
+ 
+
+<iframe src="https://www.youtube.com/embed/-JAWxpXSf6k" title="YouTube video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+ 
+
+Ovo gore je primjer murjak <em>wannabe</em> situacije, a <a href="http://www.diyphotography.net/driver-charged-felony-assault-threatening-photographer-vehicle/" rel="noopener noreferrer">ovo dole</a> civilnog retarda koji ima neku težu dijagnozu.
+
+ 
+
+<iframe src="https://www.youtube.com/embed/97hfxth3aas" title="YouTube video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+ 
+
+Ili dođe <a href="http://resourcemagonline.com/2016/04/photographer-justin-lanier-reportedly-attacked-by-a-man-in-a-pickup-truck-loses-30000-in-destroyed-gear/65062/" rel="noopener noreferrer">drugi luđak</a> pa vas sve hoće zgazit..
+
+ 
+
+<iframe src="https://www.youtube.com/embed/bsW_7d8dLnc" title="YouTube video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+ 
+
+Nemojte misliti da se ovo dešava samo po Amerikama. Podsjetimo se samo <a href="http://foto.drusany.com/2011/03/01/uhapsi-fotografe/" rel="noopener noreferrer">ovog posta</a> gdje je mjesto radnje centar Zagreba.
+
+ 
+
+I sad ti fotkaj. Kak je krenulo kad-tad ćeš završiti u zatvoru, na sudu pa plaćat neku kaznu ili odštetu ili ćeš dobiti batina i doći doma s razbijenom opremom.
+
+ 
+
+Al najbolesnije je kaj se to sve događa danas. U doba neviđene tehnologije dostupne uz kruh i mlijeko. U doba Google mapa, Street viewa, raznih „nevidljivih“ kamera, kompakta bolesnog zuma, malih kamera koje  jednim klikom snimaju 360 stupnjeva ili mobitela ogromnih rezolucija i kvaliteta, a od nedavno i s infracrvenom kamerom. Danas kada ljudi snimaju bolesnu količinu selfija i to svima serviraju na pladnju, danas se oni osjećaju ugroženo i brinu se za svoja prava i osjećajćiće. Danas su se oni našli bojat fotografa i malo bolje opreme. Kretenizam.
+
+ 
+
+Kaj će terorist/pedofil/kriminalac fakat stajat sa stativom i čekat plavi sat i fotkat po gradu ili će rađe kupit nekakvu <a href="http://www.spyshop.hr/zicane-kamere/99-mini-spy-kamera-lowlux.html" rel="noopener noreferrer">mikro kameru</a> sa svim mogućim sranjima za 100€ i ne riskirat da ga netko ulovi.
+
+ 
+
+Hoće li pedofil sjedit na klupici u parku i sa 200tkom fotkat klince ili će možda doma s balkona snimati kaj mu se sprdne sa ovakvim čudom koje dobaci 10 puta dalje?
+
+ 
+
+<iframe src="https://www.youtube.com/embed/mfshAzV0FN4" title="YouTube video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+ 
+
+I sad će mi takvi zakoni i razni idioti uništiti foto uspomene odrastanja djeteta, igre u parku i na plaži, turističke šetnje, dokumentiranje života moga grada i hrpu drugih stvari?
+
+ 
+
+Nadam se da će razum prevladati.
+
+ 9:["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L14",null,{"href":"/admin/blog/edit/fb312922-fdbd-4b61-800f-e98a2e66baeb","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Fotografi – teroristi, pedofili, bitange…"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["11. 08. 2016.",""," · Gradovi, Zagrebancije"," · Draft"]}],null,["$","$L15",null,{"html":"$16","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}]

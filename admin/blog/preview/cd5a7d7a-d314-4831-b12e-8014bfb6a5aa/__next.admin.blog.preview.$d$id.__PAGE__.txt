@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Td1a,<span>Ostatak, odnosno drugi dan </span><span class="corrected">Hanžeka</span><span> odigravao se na Mladosti koja je bila potopljena kišom koja je je </span><span class="corrected">neprestano</span><span> padala. </span><span class="corrected">Pogađate</span><span> kad je stala? Naravno kad je miting </span><span class="corrected">završio</span><span>. </span>
+
+ 
+
+<span>Na ulasku su nam </span><span class="edited">zbušili</span><span> akreditacije, dobili smo i narukvice pa u press centru i <em>Infield</em> naljepnice i marker za teren. Kako je krenulo mislio sam da ć</span><span class="error">u</span><span> i posebne </span><span class="corrected">gaće</span><span> za teren morat </span><span class="edited">obuć</span><span>.  Potajno sam se nadao da ce ta kiša malo popustiti ili čak prestati pa da ć</span><span class="error">u </span><span class="corrected">moći</span><span> normalno fotkat jer naime nemam onu kabanicu za </span><span class="corrected">fotić</span><span>. Odnosno imam al neku š</span><span class="error">ugavu</span><span> kinesku </span><span class="edited">niš</span><span> koristi. Tak da se opet pokazalo </span><span class="error hovered">kolko</span><span> para </span><span class="error">tolko</span><span> muzike.  </span>
+
+ 
+
+<span>Kako ovo đ</span><span class="error">ubre</span><span> nije prestalo padat iz svog super saka sam izvukao petlitarsku </span><span class="corrected">vrećicu</span><span> za zamrzavanje i </span><span class="hovered edited">prekrio svoje</span><span> blago. Naravno da nisam imao i gumice za zimnicu da to omotam </span><span class="error">kak</span><span> se spada nego sam se </span><span class="edited">poslužio</span><span> starim indijanskim trikom stavljanja </span><span class="corrected">vrećice</span><span> pa sjenila preko nje. Naravno da se to svako malo </span><span class="edited">izvlačilo</span><span> ali bolje nisam imao.</span>
+
+<span> Kako je bilo </span><span class="error hovered">zahebano</span><span> nama snimat tako je i natjecateljima bilo veselo. Mokri diskovi, smanjena vidljivost, sve sklisko. Obaranje rekorda i neki spektakli su ispali iz igre. U bacanju diska je suseda Sandra pomela konkurenciju i uzela prvo mjesto dok je u visu Ana Šimić bila bolja od Blanke, 100m su podijelili Bailey-Cole i Powell itd. </span>
+
+<span>Zbog </span><span class="corrected">kiše</span><span> nije bas ni neka </span><span class="corrected">gužva</span><span> na tribinama bila ali </span><span>Blažićko</span><span> se zato nije predao i urlikao je kako samo on zna.  </span>
+
+ 
+
+<span>Fotkanje sporta sporim </span><span class="corrected">fotićem</span><span> kroz </span><span class="edited">kišu</span><span> koja posebno </span><span class="error">razmrda</span><span> ionako </span><span class="corrected">napaćeno</span><span> fokusiranje rezultira hrpom </span><span class="corrected">škart</span><span> fotografija i gubljenjem volje za fotkanje sporta bez potrebne opreme.</span>
+
+ 
+
+[gallery columns="4" link="file" ids="15035,15036,15037,15038,15039,15040,15041,15042,15043,15044,15045,15046,15047,15048,15049,15050,15051,15052,15053,15054,15055,15056,15057,15058,15059,15060,15061,15062,15063,15064,15065,15066,15067,15068,15069,15070,15071,15072,15073,15074,15075,15076,15077,15078"]
+
+ 0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/cd5a7d7a-d314-4831-b12e-8014bfb6a5aa","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"64. memorijal Borisa Hanžekovića II"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["03. 09. 2014.",""," · Sport"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

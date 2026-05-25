@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Te64,U petak je u Areni održan još jedan borilački spektakl - Final Fight Championship 8.
+
+Ovog puta nije bilo Mirka, ali je fight card svejedno bio jak i zanimljiv. Ukupno 11 borbi sa imenima poput Rodrigueza, Zelga, Brestovca, Staringa... garantiralo je dosta zabave za ljubitelje borilačkih sportova.
+
+Unatoč činjenici da je nastupilo i 7 hrvatskih boraca Arena nije bila ni približno ispunjena. E sad se opet postavlja pitanje da li je trebalo spustiti cijenu karte i popuniti dvoranu uz nešto jači marketing ili se držati cijene pa imati  polu praznu dvoranu.
+
+Borbe su bile podijeljene na kick-boxing i MMA i još jednom sam se uvjerio koliko mi je stajanka zanimljivija za gledanje od drpanja po podu i hvatanja poluga i sl. finesa.
+
+Od svih borbi možda me se čak najviše dojmila ona između slovenskog Rockya Mirana Fabjana i Živkovića iz Srbije. Dečki su se fino pomlatili, bez previše odmjeravanja i ustezanja što je publika i nagradila. Fabjan je izgubio prema jednoglasnoj sudačkoj odluci što ga je prema reakcijama na kraju podosta iznenadilo.
+
+Izdvojio bi i borbu između Čeha Thomasa Hrona i Nizozemca Jahfarra Wilnisa u kojoj je također bilo fine razmjene udaraca i agresivnosti.
+
+Žao mi je da naš Delija ipak nije uspio dobiti Staringa iako ga je na početku stvarno dobro načeo. Ali Staring je još jednom pokazao da je stvarno "životinja" pa je preživio sve te udarce i u drugoj rundi ipak uspio izvući polugu i dobiti borbu.
+
+ 
+
+Najisčekivanija borba, ona između Zelga Galešića i Ricca Rodrigueza završila je već u prvoj rundi ne znam točno koliko je prošlo, ali vrlo brzo je Amerikanac srušio Zelga i natjerao ga na bolan krik što je značilo da mu je izvukao polugu na ruci i da je borba gotova. U Areni se prvih par sekundi nije čula nikakva reakcija da bi poslije uslijedio mlak pljesak jer su očito svi bili u šoku da je tako brzo i jednostavno završilo.
+
+ 
+
+Dok ovo pišem još me trgaju noge jer su fotografi kao idioti morali klečati oko 4 sata. Naime opet nisu bili postavljeni nikakvi stolci niti klupe na koje bi mogli sjesti. Klečat smo morali da ne bi smetali VIPovcima u prvim redovima što je i razumljivo, ali klečanje, odnosno polučučanj da bi se moglo nešto ufotkati je stvarno katastrofa. Napominjem da kada kleknete taman gledate u onaj najniži dio ringa na kojem su postavljene reklame tako da tako ne možete fotkat, a dizat se ne smijete pa onda tako par sati klekni-čučni. Postavljanje stolaca bi pomoglo i fotografima i VIPovcima, a ne bi koštalo dodatnih kuna jer je i tako bila hrpa praznih stolaca iza, ali nismo ih dočekali. Mene se koliko toliko spasio kolega koji je ima dva ribička stolca pa je to olakšalo agoniju.
+
+ 
+
+Svjetlo je bilo super za fotkanje i na tome im hvala. Zato sam ispucao 32GB RAW fotki, ali sam 80% toga izbrisao. BIlo kako bilo ostala je ova ogromna galerija. Bacam sve u jednom postu...da ne pišem dva :)
+
+ 
+
+[gallery columns="4" link="file" ids="10314,10315,10316,10317,10318,10319,10320,10321,10322,10323,10324,10325,10326,10327,10328,10329,10330,10331,10332,10333,10334,10335,10336,10337,10338,10339,10340,10341,10342,10343,10344,10345,10346,10347,10348,10349,10350,10351,10352,10353,10354,10355,10356,10357,10358,10359,10360,10361,10362,10363,10364,10365,10366,10367,10368,10369,10370,10371,10372,10373,10374,10375,10376,10377,10378,10379,10380,10381,10382,10383,10384,10385,10386,10387,10388,10389,10390,10391,10392,10393,10394,10395,10396,10397,10398,10399,10400,10401,10402,10403,10404,10405,10406,10407,10408,10409,10410,10411,10412,10413,10414,10415,10416,10417,10418,10419,10420,10421,10422,10423,10424,10425,10426"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/96b94736-ac9a-4eb4-93f6-820fb111b3c8","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Final Fight Championship 8"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["27. 10. 2013.",""," · Sport"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

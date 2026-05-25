@@ -1,0 +1,54 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T9ca,Uz kromatske aberacije ovo je mi je jedna od mrskijih pojava na fotografiji. Neću ulaziti u neku stručnu dosadnu šmokljansku analizu nego ću samo ukratko opisati kaj je ovo smeće i kako ga maknuti.
+
+ 
+
+Na fotografiji je moire efekt neželjena pojava u obliku onih hipnotizirajućih epileptičnih oblika koji su naravno u nekim bojama i unište vam fotku. Nećete ih svakodnevno viđat, pogotovo ako ste fotograf pejzaža i sl., ali ako fotkate npr. sastanke ili neke evente budite uvjereni da će netko imati nekakav sako sa puno crta poslaganih na sve moguće načine i da će to pod određenim kutom, udaljenosti, objektivom…stvoriti moire efekt na vašoj fotki.
+
+ 
+
+Ovo smeće se također može pojaviti i na zgradama kao što vidite na fotki malo niže, a sigurno ćete ga upecati i ako pokušavate ufotkat ekran.
+
+<img src="/uploads/wordpress/2014/09/DSC7565.jpg" width="642" class="aligncenter size-full wp-image-15610" />
+
+<img src="/uploads/wordpress/2014/10/moire3.jpg" width="641" class="aligncenter size-full wp-image-15623" />
+
+Na svu sreću <strong>moire efekt</strong> se može bez većih problema naknadno maknuti i neće vam biti na svakoj fotki pa u konačnici nije tako strašno.
+
+ 
+
+Osobno prakticiram 2 načina micanja ove foto vradžbine i pokazat ću ih na ovom divnom sakou.
+
+ 
+
+Otvorite fotku u Photoshopu, napravite selekciju oko sakoa, napravite novi layer, sa color pickerom odaberete prevladavajuću boju sa sakoa, sa Paint bucketom ofarbate taj novi prazni layer u boju koju ste odabrali i Blending mode stavite na Color. I to je to.
+
+ 
+
+Ova procedura može biti i malo drugačija. Dakle odmah napravite novi layer, Blending mode stavite na Color, odaberite prevladavajuću boju sa sakoa, odaberite Brush i farbajte po dijelovima sa moireom i gledajte kako nestaje.
+
+ 
+
+
+
+<img src="/uploads/wordpress/2014/10/moire-before.jpg" alt="moire-before" width="642" class="aligncenter size-full wp-image-15622" /> <img src="/uploads/wordpress/2014/10/moire-after.jpg" alt="moire-after" width="642" class="aligncenter size-full wp-image-15621" />
+
+
+
+ 
+
+Ako pak volite to riješiti odmah u RAW-u onda otvorite fotku u ACR-u, odaberite <strong>Adjustment brush</strong> i u njenim postavkama Moire reduction klizač dižite do željene vrijednosti.
+
+ 
+
+<img src="/uploads/wordpress/2014/10/Untitled-1.jpg" alt="ACR - Adjustment Brush" title="ACR - Adjustment Brush" width="294" class="aligncenter wp-image-15612 size-full" />
+
+ 0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/7a5907f5-e646-4309-a614-0ee6b91f885f","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Photoshop: Moire efekt"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["01. 10. 2014.",""," · Savjeti"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

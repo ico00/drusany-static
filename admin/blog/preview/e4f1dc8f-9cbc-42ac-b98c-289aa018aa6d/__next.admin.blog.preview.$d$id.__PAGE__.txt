@@ -1,0 +1,116 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T1c58,Nije tajna da ću za praznike rađe otputovat van granica jer ne mogu podnijeti lešinarenje i nesposobnost naših ugostitelja, animozitet među ljudima i slične divne strane hrvatskog turizma. Ostali razlozi su naravno želja za upoznavanjem novih država, ljudi, kultura itd.
+
+ 
+
+Međutim Hrvatska je stvarno biser i šteta ju je ne obići uzduž i poprijeko kad god se za to ukaže prilika. Posebno me interesiraju <strong>foto lokacije</strong> u lijepoj našoj, a njima ona obiluje. Neke su jako poznate, neke pak malo skrivenije. Baš zato sam si odlučio napraviti kartu na koju ću ukucavati lokacije na kojima sam bio i koje moram posjetiti. Biti će to živa karta jer ću je dopunjavati kako kaj posjećujem i otkrivam, odnosno fotkam.
+
+ 
+
+Evo kratki opis nekih zanimljivih foto lokacija koje sam obišao.
+
+ 
+<h4><a href="http://foto.drusany.com/2009/10/18/dubrovnik/" target="_blank" rel="noopener noreferrer">Dubrovnik</a></h4>
+<img src="/uploads/wordpress/2015/03/dubrovnik_03.jpg" width="642" class="aligncenter size-full wp-image-17528" />
+
+Najpoznatija hrvatska destinacija koju godišnje obiđe horda stranih i domaćih turista. Grad i okolica obiluju foto lokacijama i u biti gdje god uperite foto aparat ćete okinuti zanimljivu fotku. No, ako želite one razglednica fotke onda definitivno morate uspinjačom na Srđ, ili na vidikovac na magistrali, a meni je bio zanimljiv i kadar sa mostom dr. Franje Tuđmana i gradom u vrijeme plavog sata.
+
+ 
+<h4><a href="http://foto.drusany.com/category/gradovi/zagrebancije-gradovi/" target="_blank" rel="noopener noreferrer">Zagreb</a></h4>
+<img src="/uploads/wordpress/2015/03/141226_Advent_u_Zagrebu_257.jpg" alt="Advent u Zagrebu 2014." width="642" class="aligncenter size-full wp-image-17532" />
+
+Do prije koju godinu Zagreb je služio samo kao stanica na putu do mora za većinu turista. Na sreću ljudi su se opametili, a grad malo sredio reklamu i malo proširio ponudu pa se tako sada većinu godine može sresti puno turista po ulicama grada. Uglavnom je sve bazirano oko centra gdje je i najveća kulturna i gastro ponuda što je i logično.
+
+ 
+
+Kao lokalac i zaljubljenik u grad teško ću reći što se baš najljepše i nezaobilazno. Gornji grad se mora vidjeti, centar također, a ako mogućnosti i vrijeme dozvoljavaju treba prošetati i pofotkati i Maksimir.
+
+ 
+<h4><a href="http://foto.drusany.com/2012/06/07/licki-dan/" target="_blank" rel="noopener noreferrer">Majerovo vrilo, Lika</a></h4>
+<img src="/uploads/wordpress/2015/03/MG_0524.jpg" width="642" class="aligncenter size-full wp-image-17526" />
+
+Jedno od onih mjesta koji nisu baš na svačijoj turističkoj karti kad posjećuje Hrvatsku, a trebalo bi biti. Majerovo vrilo je samo jedno od vrila kod rijeke Gacke i pretpostavljam da su sva jednako lijepa i fotogeničnabaš kao i rijeka Gacka.
+
+ 
+
+Nakon šetnje po prirodi svakako treba napraviti pauzu za ručak i probati domaće pastrve i poznati lički krumpir, a možete si uzeti i koju kilu kukuruznog brašna iz mlinova.
+
+ 
+
+Nedaleko od vrila je i Kuterevo u kojem je smješteno i utočište za medvjede gdje ćete moći pofotkati i male medeke koji su manje depresivni od onih po zoološkim vrtovima.
+
+ 
+<h4><a href="http://foto.drusany.com/2014/09/06/zeleni-vir-i-vrazji-prolaz/" target="_blank" rel="noopener noreferrer">Zeleni vir i Vražji prolaz</a></h4>
+<img src="/uploads/wordpress/2015/03/MG_3658.jpg" width="642" class="aligncenter size-full wp-image-17523" />
+
+Samo par kilometara vožnje od Skrada po uskoj cesti i doći ćete do ove zanimljive lokacije. Nije tako spektakularna i opasna kako je se opisuje, ali svakako je vrijedna posjete.
+
+Ako je malo veća gužva biti će vam teže fotkati sa stativom, ali isplati se biti strpljiv.
+
+ 
+<h4><a href="http://foto.drusany.com/2013/11/06/trakoscan/" target="_blank" rel="noopener noreferrer">Trakošćan</a></h4>
+<img src="/uploads/wordpress/2015/03/MG_4532.jpg" width="642" class="aligncenter size-full wp-image-17525" />
+
+Po meni najljepši dvorac kod nas sa jezerom i šetnicom u okolini dvorca koji su prekrasni u svako godišnje doba. Foto lokacija ima bezbroj. Dvorac, oko dvorca, u dvorcu. na jezeru...
+
+ 
+<h4>Varaždin</h4>
+<img src="/uploads/wordpress/2015/03/MG_0459-Exposure.jpg" alt="Varaždin, Stari grad" width="642" class="aligncenter size-full wp-image-17521" />
+
+Prekrasan bivši glavni grad Hrvatske koji će svojom baroknom arhitekturom zadovoljiti svakog fotografa koji štuje fotografiranje dvoraca, crkvi, kuća i ostalih zdanja. Najpoznatiji je svakako Stari grad kojeg ne smijete zaobići ako ste u gradu.
+
+ 
+
+Krajem kolovoza Varaždin posjete rijeke ljudi jer se u gradu odvija ulični festival Špancirfest. Ako vam ne smeta gužva možete se nafotkat od koncerata, uličnih štandova, atmosfere... Ne možete fulat.
+
+ 
+
+Ako vam fotkanje po groblju nije morbidno, onda svakako treba posjetiti i varaždinsko groblje, jedno od ljepših ako groblja mogu biti lijepa.
+
+ 
+<h4>Samobor</h4>
+<img src="/uploads/wordpress/2015/03/IMG_6978.jpg" width="642" class="aligncenter size-full wp-image-17535" />
+
+Definitivno je najpoznatiji po fašniku i po samoborskim kremšnitama, ali Samobor je prekrasan i u vrijeme Božića ili običnog sunčanog vikenda. Ako ste u okolici Zagreba i želite se odmaknuti od gradske gužve Samobor je rješenje.
+
+ 
+
+Za fotografe je svakako najinteresantniji fašnik sa bezbroj prilika snimanja šarenih portreta, ali nije za baciti ni arhitektura i okolna priroda koju posjećuju svi okolni planinari i rekreativci.
+
+ 
+<h4>Istra</h4>
+<img src="/uploads/wordpress/2015/03/DSC9463.jpg" width="642" class="aligncenter size-full wp-image-17530" />
+
+Istra je svijet za sebe. Toliko prekrasnih malih gradića na hrpi, toliko gastronomskih specijaliteta, toliko foto prilika.
+
+Možda je najpoznatiji Rovinj u kojem je teško napraviti lošu fotku, ali tu je i kultni Motovun, pa Buzet, Vrsar…
+
+ 
+
+ 
+
+Ovo je samo mali dio ljepota koje Hrvatska skriva i kao što vidite skriva ih unutar cijele svoje površine i tijekom cijele godine, a ne samo 3 mjeseca na moru. Svakako treba posjetiti svih osam nacionalnih parkova, dalmatinske gradove i gradiće, hrpu otoka, slavonska sela i gradove, vinograde po cijeloj Hrvatskoj, Rastoke, velebitska prostranstva, Mrežnica, etno sela…
+
+Neke od lokacija koje sam si ja zacrtao su Lubenice na Cresu, Kopački rit, Modro i Crveno jezero i još hrpa drugih.
+
+ 
+
+Na ovoj karti ću popikati lokacije koje mi padnu na pamet i pozivam vas da mi slobodno pošaljete svoje prijedloge kako bih ju nadopunio. Poseban plus iz zalaganja dobijete za <strong>GPS koordinate</strong>. Noviji aparati tu magiju imaju ugrađenu dok za starije modele preporučam da s istog mjesta okinete fotku sa smartphoneom koji će zabilježiti i koordinate.
+
+ 
+
+E da..Google ne dozvoljava embedat kartu koju kreirate pa je ovo slika karte sa linkom.
+
+<a href="https://www.google.com/maps/d/edit?mid=ziVZxCsRybMQ.kEmUAzRdzP1Q" target="_blank" rel="noopener noreferrer"><img src="/uploads/wordpress/2015/03/Screen-Shot-2015-03-18-at-20.49.07.jpg" width="642" class="aligncenter size-full wp-image-17540" /></a>
+
+ 
+
+ 0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/e4f1dc8f-9cbc-42ac-b98c-289aa018aa6d","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Foto Hrvatska"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["18. 03. 2015.",""," · Gradovi, Zagrebancije"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

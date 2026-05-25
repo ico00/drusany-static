@@ -1,0 +1,59 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Tad6,Neki dan sam nabasao na post Scotta Kelbya u kojem je pokazao trik za priručno fotkanje prstena na svadbama. Nije to otkrivanje tople vode, ali on je to na svoj način fino objasnio, nesebično pokazao svaki detalj i olakšao posao svima.
+
+Svi svadbari fotkaju prstenje na dan vjenčanja na ovaj ili onaj način. No ako ste ostali be ideja i rekvizita ovo je odlična fora jer vam je sve pri ruci.
+
+ 
+
+Sve kaj vam treba su:
+<p>- prsten,</p>
+<p>- iPad ili iPhone,</p>
+<p>- aparat (po mogućnost s macro objektivom, ali ide i ostalo)</p>
+ 
+
+Prije fotkanja svakako izglancati staklenu površinu iPada kao i same prstene jer se packe i prašina vide čak i nakon glancanja.
+
+I to je to, stavite prstenje na iPad nađite odgovarajući kut i fotkajte. Uz dovoljno dnevnog svjetla (pored prozora) neće vam trebati niti fleš ili druga svjetlosna pomagala.
+
+ 
+
+Mene je zanimalo da li je moguće i ostalu sitnež pofotkati bez postavljanja foto studija i rezultati su više nego zadovoljavajući uz minimum minimuma truda.
+
+ 
+
+Probao sam tri varijante fotkanja.
+
+ 
+
+<strong>Prva</strong> je ugašeni iPad sa dva crna kartona sa lijeve i gornje strane kako bi dobio tamnije fotke uz zagasitu refleksiju.
+
+<img src="/uploads/wordpress/2015/08/MG_3061.jpg" width="428" class="aligncenter size-full wp-image-19006" />
+
+<img src="/uploads/wordpress/2015/08/MG_3066.jpg" width="642" class="aligncenter size-full wp-image-19009" />
+
+Možete dodati i neki efekt da razbijete crnilo.
+
+<img src="/uploads/wordpress/2015/08/MG_3051-Exposure3.jpg" width="428" class="aligncenter size-full wp-image-19004" />
+
+<strong>Druga</strong> je sa ugašenim iPadom ali bez kartona i sa traženjem pogodnog kuta. Dakle da se ne vidi luster i ostatak sobe te da je refleksija jasna i čista, a pozadina čisto siva.
+<img src="/uploads/wordpress/2015/08/MG_3062.jpg" width="428" class="aligncenter size-full wp-image-19014" />
+
+<strong>Treća</strong> varijanta je paljenje neke aplikacije koja će preko cijele površine imati upaljenu čistu bijelu boju. E tu se uz male dorade može dobiti solidna produkt fotka bez prevelike nauke i ulaganja. Govorim naravno o sitnijim predmetima. Ovisno o kutu refleksiju možete imati ili pak nemati.
+
+<img src="/uploads/wordpress/2015/08/MG_3127.jpg" width="428" class="aligncenter size-full wp-image-19012" />
+
+Ako se malo poigrate i dodate neki lagani gradient te dodatno zamutite refleksiju možete imati nešto ovakvo.
+
+<img src="/uploads/wordpress/2015/08/MG_3094.jpg" width="642" class="aligncenter size-full wp-image-19010" />
+
+A možete ukomponirati i neku mekanu pozadinu za ovakav rezultat.
+
+<img src="/uploads/wordpress/2015/08/MG_3118.jpg" width="428" class="aligncenter size-full wp-image-19011" />0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/b98b8434-b7ad-4e5b-a95c-0726c136c709","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Ekspresno fotkanje sitneži"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["09. 08. 2015.",""," · Savjeti"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Te39,Jednodnevni izlet u <strong>Montserrat</strong> je vjerojatno bio najljepši dio posjete Barceloni.
+
+ 
+
+Montserrat je najpoznatiji kao svetište i po <strong>crnoj gospi</strong>,  po bazilici, po dječačkom zboru,  i sl. vjerskim stvarima. Priča je klasična, siromašni mladi pastiri su vidjeli nekakvo svjetlo, čuli pjesmu da bi uskoro našli kip majke božje sa Isusom. Pokušali su ga prenijeti, ali je kip postao težak pa čak i nepomičan što je naravno protumačeno kao božji znak. Na tom mjestu je nastao samostan.
+
+ 
+
+Ali Montserrat je i nacionalni park, prvi u Španjolskoj. Tu će vas dočekati prekrasni planinarski putovi i pogledom za stat i uživat. Savršeno mjesto za odmak od grada i ulice. U prijevodu sa katalonskog Montserrat bi bila planina pila. Zašto pila, shvatit ćete ako ju iz daljine pogledate i vidite nazubljene vrhove koji podsjećaju na ručnu pilu.
+
+ 
+
+Prvi korak je kupovina karte koja košta<strong> 37€</strong>, a u tu cijenu su vam uključene povratne karte za metro, gradski vlak, vlak do brda (ili žičara) i uspinjače. Ali to nije sve, u ovu nevjerojatnu ponudu je uključen i ručak. Samo ima jedna mala kvaka koju vam nitko neće reći, a to je da ako kanite jesti na tu karticu, onda morate doći prije 16h jer do tada radi menza pa požurite.
+
+ 
+
+Kartu je najbolje kupiti u turističkom uredu jer će vam tamo teta dati upute i papire na koji vlak i koju podzemnu da uskočite.
+
+ 
+
+To nam je bio prvi i jedini put da smo morali koristiti metro pa smo vidjeli i to čudo. Na odlasku nismo upali u gužvu pa je sve fino proteklo. Kazna za švercanje u metrou je 100€, dakle 250kn manje od kazne koju traži ZET.
+
+ 
+
+Znači metroom do Placa Espanya, a tamo su već putokazi za vlak koji ide do Montserrata. Ništa bez upozorenja o džeparima koji vole ordinirati na kolodvoru, a posebno na automatima gdje se kupuju karte. Vlakovi točni na minutu. Dolazak naravno možete pratiti na displayu na stanici.
+
+Slijedi jednosatna vožnja klimatiziranim gradskim vlakom i razgledavanje okoline. Postoje dvije stanice Montserrat. Na prvoj izlazite ako ste se odlučili na žičaru, a na drugoj ako put nastavljate vlakom. Po izlasku iz gradskog vlaka osoblje će vas uputiti do vlaka koji vozi samo na Montserrat i za par minuta se već vozite u drugom vlaku koji se junački penje uz brdo i vijuga po zavojima. Tu počinje uživanje u prirodi i prekrasnom pogledu na planine, provalije, ceste.
+
+ 
+
+Kad stignete vjerojatno ćete prvo otići do trga gdje je bazilika i kip. Sve je čisto, lijepo i uredno i gušt je prošetati se i pogledati sve što se nudi. Za posjet kipu se napravi malo veći red, ali ako baš ne žalite dirati kip možete samo ući u baziliku. Ulaz se ne naplaćuje. U blizini je i mjesto gdje se ljudi pomole i zapale svijeću. One su od 1€ do 2€ otprilike. Sa trga se pruža i pogled na žičaru i put kojim ste došli.
+
+ 
+
+Nakon što odradite taj crkveni dio slijedi ono pravo. Kratka vožnja uspinjačom (koja ide svakih 20 min) i šetnja po planinskom djelu. Iako nas je sunce fino opičilo gore ima vjetra pa nije tako strašno. Pogled na stijene, vrhove, podnožje, kapelicu i sl. je neprocjenjiv. Gore mogu ići i oni s kondicijom i bez nje. Po vrhovima ima i alpinista, tako da za svakog po nešto.
+
+ 
+
+[gallery columns="4" link="file" ids="9525,9528,9527,9526,9524,9523,9521,9522,9518,9517,9519,9520,9516,9568,9567,9566,9562,9563,9564,9565,9561,9560,9559,9558,9557,9556,9555,9554,9549,9548,9547,9542,9543,9544,9546,9545,9541,9540,9539,9534,9538,9535,9536,9537,9533,9532,9531,9530,9529,9553,9551,9550,9552"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/b77e137c-b479-4d4d-8960-9106543e4b98","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Barcelona: Montserrat"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["22. 08. 2013.",""," · Barcelona, Gradovi, Putovanja"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

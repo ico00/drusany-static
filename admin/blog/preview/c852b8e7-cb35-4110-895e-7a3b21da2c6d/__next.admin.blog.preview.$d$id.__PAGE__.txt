@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Ta46,Nedavno sam se zamislio nad par fotki koje sam okinuo na poslu s Nikonom D810. Jedna je bila snimljena na niskom ISO-u, totalno podeksponirana, skoro pa crna, jedna od onih koje izbrišete u aparatu. Druga je pak bila na ISO 3200.Bio mi je zanimljiv kadar pa sam prvu reda radi išao otvorit u Photoshopu samo da vidim otprilike kaj dobijem. I na moje čuđenje dobio sam više nego iskoristivu fotku, skoro pa bez nekih tragova masakriranja exposure slidera u ACR-u.
+
+Drugu sam pak išao malo korigirati jer je više-manje bila OK, ali ju je ipak trebalo posvjetiliti. No kako sam dizao exposure tako se taj šum na ionako visokom ISO-u još više pojavljivao i uništavao fotku. Fotka je ostala iskoristiva, pogotovo jer se 36MP na D810 dozvoljavaju da se fotka osjetno smanji i da svejedno ostane velika, ali time i spegla nesavršenosti koje se na 100% vide.
+
+Na žalost zbog tematike vam ne mogu vam pokazati te fotke pa sam probao simulirati nešto slično na sljedećim fotkama.
+
+Jedna je snimljena na ISO 100, 1/100s, f/3,5, a druga na ISO 3200, 1/500s i f/3,5. Prva je skoro pa crna dok je druga recimo korektno eksponirana.
+
+Prvu sam brutalno potegnu u plus uz još neke manje korekcije i dobio odličnu fotku, a drugu osjetno manje, ali mi se već na prvu činilo da to nije to. Je, iz daleka se na ovoj fotki čini da je to možda OK, ali na ljudima odnosno koži i malo drugačijim uvjetima bi se već iz aviona vidjelo da je to loše. Obje su fotke iskoristive, ali mi je čudno da fotka niskog ISO-a sa brutalnom korekcijom izgleda bolje od korektne fotke na visokom ISO-u.
+
+<img src="/uploads/wordpress/2017/09/before2.jpg" width="1109" class="aligncenter size-full wp-image-25499" /><img src="/uploads/wordpress/2017/09/low-iso-resize.jpg" alt="HKZP d.o.o." width="1024" class="aligncenter size-full wp-image-25503" />
+
+ISO 100, 1/100s, f/3,5
+
+<img src="/uploads/wordpress/2017/09/before1.jpg" width="1109" class="aligncenter size-full wp-image-25498" /><img src="/uploads/wordpress/2017/09/high-iso-resize.jpg" alt="HKZP d.o.o." width="1024" class="aligncenter size-full wp-image-25501" />
+ISO 3200, 1/100s, f/3,5
+A evo i 100% cropa
+
+<img src="/uploads/wordpress/2017/09/low-iso-full.jpg" width="1024" class="aligncenter size-full wp-image-25502" /><img src="/uploads/wordpress/2017/09/high-iso-full.jpg" width="1024" class="aligncenter size-full wp-image-25500" />
+
+Po ovome ispada da je bolje imat crne fotke na ISO 100 nego napucavat ISO. Internet teoretičari kažu da bi načelno oba postupka trebala dati identičan rezultat, ali moje oči kažu drugačije.
+
+Ima li to ikakvog smisla?0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/c852b8e7-cb35-4110-895e-7a3b21da2c6d","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Photoshop: Tko je tu lud?"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["19. 09. 2017.",""," · Savjeti"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

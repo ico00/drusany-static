@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Tb45,Igrom slučaja našao sam svoju očigledno najpopularniju fotografiju. Lagano mutnjikava, puna šuma i čudnovatih boja očigledno je zainteresirala hrpu portala u regiji.
+
+ 
+
+Naravno upit za korištenje nisam dobio niti od jednog od tih portala, potpis je također nepoznanica.
+
+Fotka se čak koristi i u onim demotivators okvirima.
+
+Naravno iznimna mi je čast što se toliko portala odlučilo ukrasti ovu fotku, pa ću time platiti kredit za staru i kupiti još nešto nove opreme.
+
+Evo i nekih od linkova gdje sam zatekao ovu fotografiju, a ispod je i screen capture galerija za dugu uspomenu.
+
+
+<ul>
+	<li><em>http://www.ezadar.hr/clanak/rukomet-zadru-izrecena-suspenzija-i-oduzet-bod</em></li>
+	<li><em>http://icv.com.hr/2013/02/sportska-nedjelja-u-vpz-rukomet-i-kosarka/</em></li>
+	<li><em>http://www.cafe.ba/sport/50107_Rukomet-Liga-prvaka-Pobjeda-Barcelone-Bosna-BH-gas-gostuje-u-Zagrebu.html</em></li>
+	<li><em>http://www.kurir-info.rs/rival-partizana-u-rukometnoj-ligi-sampiona-namestao-meceve-clanak-429532</em></li>
+	<li><em>http://regionalni.com/sport/rukomet/u-116-finala-kupa-vidovec-bios-pobijedio-prelog-3427/</em></li>
+	<li><em>http://kameleon.ba/site/danas-na-rukomet-labudice-i-ork-tuzla-protiv-bihaca/</em></li>
+	<li><em>http://tgportal.net/mladi-kadeti-rk-delminiuma-u-polufinalu-prvenstva/rukomet-lopta-2/</em></li>
+	<li><em>http://www.gracanica24sata.com/rukomet-rk-gracanica-ipak-nije-slavila-u-prijateljskoj-utakmici-protiv-gradacca/</em></li>
+	<li><em>http://www.ico.rs/dve-pobede-odzackih-rukometasica-2/</em></li>
+	<li><em>http://zenica24sata.com/rukometparovi-kupa-bih/</em></li>
+	<li><em>http://www.etrafika.net/index.php/sport/8791-danas-u-srbiji-poinje-ep-za-ene-u-rukometu.html</em></li>
+	<li><em>http://www.virovitica.hr/2013/01/21/medunarodni-rukometni-turnir-virovitica-2013/</em></li>
+	<li><em>http://www.cityportal.hr/category/sport/rukomet/page/2/</em></li>
+	<li><em>http://www.demotivacija.rs/tags/rukomet/kada-sam-te-uhvatio-16225.html</em></li>
+	<li><em>http://www.b92.net/sport/rukomet/vesti.php?yyyy=2011&amp;mm=12&amp;dd=15&amp;nav_id=565892</em></li>
+	<li><em>http://www.dodirnime.com/sport/crvena-zvezda-ubedljivo-porazena-od-zagreba/</em></li>
+	<li><em>http://ecakovec.com/2012/11/financijski-problemi-rukomtnog-kluba-medimurje/</em></li>
+	<li><em>http://www.hercegsport.info/spektakularno-izdanje-rukometne-reprezentacije-bih-nedovoljno-za-plasman-na-sp/</em></li>
+	<li><em>http://www.3hrl-istok.com/</em></li>
+	<li><em>http://www.dubrava.hr/sport/881-rukometai-doivjeli-prvi-poraz</em></li>
+	<li><em>http://www.radiosarajevo.ba/novost/80063#</em></li>
+	<li><em>http://www.akter.co.rs/28-sport/28842-rukometai-hrvatske-osvojili-bronzu.html</em></li>
+</ul>
+...
+
+ 
+
+[justified_image_grid ids="7024,7025,7026,7027,7028,7029,7030,7031,7032,7033,7034,7035,7036,7037,7038,7039,7040,7041,7042,7043"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/a37e9de7-953c-4c6e-8a6f-163c3d3b6986","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Fotografija karijere"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["28. 02. 2013.",""," · Info"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

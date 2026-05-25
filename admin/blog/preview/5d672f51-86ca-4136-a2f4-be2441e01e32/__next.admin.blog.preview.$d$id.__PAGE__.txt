@@ -1,0 +1,50 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Tda5,
+<p><a href="https://www.festivalsvjetlazagreb.hr" target="_blank" rel="noreferrer noopener" title="Festival svjetla">Festival svjetla</a> se u Zagrebu prvi put pojavio 2017. i uvijek mi nekako promakne, vjerojatno zbog kratkog trajanja, svega 4-5 dana. Ove godine sam ga nekako uspio iskombinirati i prošetati se kroz nekoliko lokacija iako sam u planu imao i više.</p>
+
+
+
+<p>No kako većina mojih gradskih šetnji podrazumijeva i sada šestogodišnju klinku pod nogama tako se ni ovaj put nisam izvukao. Nisam uspio ni s planom da smo u gradu oko plavog sata niti je stativ bio opcija pa sam se već unaprijed pomirio s turističkim fotkama.</p>
+
+
+
+<p>A onda nam se ukazala majka svih mojih živčanih slomova - gužva. I to ne gužva kao malo se više ljudi naguralo nego kao da su najavili dijeljenje 100 eura svakom šetaču. Dakle ceste neprohodne, parkinga ni za lijek, a šetnja se svodi na agoniju i želju za odustajanjem. Tome naravno dodajmo nekulturu hodanja odnosno nitko nema dva zrna u glavi da shvati da ne može hodati i s lijeve i desne strane u bilo kojem smjeru ako želi da ta rijeka ljudi teče bez većih problema. Nešto smo se vrzmali oko Muzičke akademije, MUO i HNK pa skočili do Mimare gdje smo došli taman pred početak projekcije. I to je bio pravi pogodak. Fascinantan<br />3D mapping zagrebačke kulturne i povijesne baštine uz dinamičnu glazbenu podlogu. Toliko je bilo dobro da se moja sramežljiva Rita sama pridružila pljesku na kraju projekcije.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=i4_kRFj9P_k
+</div></figure>
+
+
+
+<p>Sljedeća stanica nam je bio Gornji grad, a za put prema njemu smo odlučili na potez Mesnička-Stross. Al ne lezi vraže gužva prema gore se vukla od Ilice pa skroz do ulaska u tunel i to nije bio red od jednog čovjeka..dakle bolest. Ljudi čekaju ne znam kolko da uđu u tunel koji navodno nije ni cijeli osvijetljen nego samo manji dio. Još jedna rijeka se slijevala sa Strossa na Mesničku tako da se nije ni moglo tom stranom gore nego preko Kapucinskih štengi. </p>
+
+
+
+<figure class="wp-block-image size-large"><img src="/uploads/wordpress/2022/03/IMG_6955-1024x683.jpg" alt="/" class="wp-image-32804" /></figure>
+
+
+
+<p>E tu je već Rita počela cvilit jer joj to penjanje nije godilo kao ni gužva na njima, a nije mogla ni dokučiti gdje su svi kupili te svjetleće rekvizite.</p>
+
+
+
+<p>Malo probijanja po gužvi, naramak okidanja iz ruke i čelom nazad. Na žalost nisam imao 600 mm uz sebe koji bi savršeno poslužio za narančasti mjesec koji se taman poravnavao oko tornjeva katedrale.<br />Sve u svemu jako lijepo to sve zgleda, ali zbog te gužvetine sumnjam da ću se opet uputiti u tu avanturu.</p>
+
+
+
+<p>Ne bi škodilo da su policajci regulirali par ključnih križanja na kojima su se stvarali čepovi, koji pak izazivaju lančanu reakciju trubljenja i histerije. Jer ne možeš ti od našeg čovjeka očekivati razumijevanje u prometu i osnovnu kulturu. Naš čovjek će ući u križanje makar bio 200% siguran da ga neće proći. Nije njega briga kaj onda niko nikam neće moći, on je u križanju, to je bitno. Ako ste mislili da ja panika kad je advent onda ste se gadno prevarili.</p>
+
+
+
+<div class="wp-block-dgwt-justified-gallery">[gallery ids="32788,32789,32790,32791,32792,32793,32794,32795,32796,32797,32798,32799,32800"]</div>
+0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/5d672f51-86ca-4136-a2f4-be2441e01e32","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Zagrebancija LXXIV: Festival svjetla 2022."}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["20. 03. 2022.",""," · Gradovi"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T9da,
+<p>Zadnje promjene državnih praznika nekim čudom nisu obuhvatile Zagrebački maraton kao Dan svih svetih iako se taj dan najviše spominju svi sveci. Zagreb je davno prerastao svoje prometne gabarite, gužve su i vikendom, parkinga nema nigdje, ne postoje sigurni obilazni pravci, pa svako dodatno zatvaranje prometnica tjera pjenu na usta vozača. Kao da nije dovoljno kaj su Milan i njegovi uspjeli paralizirat cijeli grad i što to traje mjesecima, sada još tamo neki ljudi trče po cesti i zajebavaju poštene vozače. I zato se opet psovalo i proklinjalo, ali na sreću još nije došlo do probijanja barikada iako sam fotkao po Dubravi i to me ne bi ni najmanje čudilo.</p>
+
+
+
+<p>Bilo kako bilo <strong>28. zagrebački maraton</strong> je protrčao od trga do Dubca i tako nekoliko puta, ovisno o dužini koju su trkači odabrali, njih 6254 kako kaže službena stranica.</p>
+
+
+
+<p>Inače fascinantno je kako neki ljudi u Zagrebu reagiraju na crne trkače. Počelo je s nekim komentarom na fejsu, dakle dođe časna sestra pa kaže nešto u stilu "što nam sad tu neki crni trče po gradu, kao da nemamo bijelaca". No to su vjerski ljudi, na njihove ispade sam se već navikao. Više me zasmetalo ono kad su ljudi oko mene na ulici počeli svojoj djeci vikati "Evo vidi ga, crnac" ili "Ajme vidi ovih" kao da su neke babe u selu na planini koje nisu vidjele ništa dalje od svoje okućnice, a ne ljudi u europskoj metropoli koja eto postaje sve popularnij turistička lokacija. </p>
+
+
+
+<p>Fotkanje sam odradio 99% sa <strong>135icom pri f/2.0</strong> na sada već uhodanoj kvartovskoj ruti po Dubravi i završio ga već nakon sat vremena kad sam shvatio da imam previše fotki i da će se sve sljedeće biti iste. Malo me mučila količina mutnih fotki zbog te blende, ali kad sam vidio kaj se sve objavljuje zaključio sam da nema razloga za nezadovoljstvo.</p>
+
+
+
+<p>Za drugu godinu dajem časnu riječ da ću otići do centra i malo poraditi na različitim kadrovima. </p>
+
+
+<p>[gallery ids="31511,31512,31513,31514,31515,31516,31517,31518,31519,31520,31521,31522,31523,31524,31525,31526,31527,31528,31529,31530,31531,31532,31533,31534,31535,31536,31537,31538,31539,31540,31541,31542,31543,31544,31545,31546,31547,31548,31549,31550,31551,31552,31553,31554,31555,31556,31557,31558,31559,31560,31561,31562,31563,31564,31565,31566,31567,31568,31569,31570,31571,31572,31573,31574,31575,31576,31577,31578,31579,31580,31581,31582,31583,31584,31585,31586,31587,31588,31589,31590,31591,31592,31593,31594,31595"]</p>0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/214c32a7-eda2-43ba-b411-f0217ca39ef3","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Atletika: 28. zagrebački maraton"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["14. 10. 2019.",""," · Sport"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

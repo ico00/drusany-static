@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T44c,Jučer je bilo jedno zgodno foto poslije podne.
+U Muzeju za umjetnost i obrt je otvorena <span><a href="http://www.muo.hr/hr/aktualno/dogadjanja/15.-izlozba-fotografija-kamermana-i-snimatelja-htv-a,199.html" target="_blank" rel="noopener noreferrer"><span>15. izložba fotografija kamermana i snimatelja HTV-a</span></a></span>. Prije izložbe malo glupiranja oko HNK, pa trk u MUO.
+
+ 
+
+Nakon izložbe sam skočio do novootvorene galerije fotografija <span><a href="http://www.vecernji.hr/zagreb/galerija-posvecena-iskljucivo-zagrebu-clanak-549157" target="_blank" rel="noopener noreferrer"><span>RaZGlednica</span></a></span> u Radićevoj 3 koju je otvorio fotograf Kristijan Tabet. Prostor je jako mali, ali zgodan, a fotke zagrebačkih motiva odlične. Ako se ne varam ovo je jedina foto galerija u Zagrebu.
+
+ 
+
+Nakon raZGlednica krug po Gornjem gradu i to je to. Još jedne Zagrebancije su tu, 21. po redu.
+
+ 
+
+[gallery columns="4" link="file" ids="7801,7802,7803,7804,7805,7806,7807,7808,7809,7810,7811,7812,7813,7814,7815,7816,7817,7818,7819,7820,7821,7822,7823,7824,7825,7826"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/6239c5fc-ec04-48cd-a275-188241b92d03","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Zagrebancije XXI - MUO, HNK, Gornji grad"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["16. 05. 2013.",""," · Gradovi"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

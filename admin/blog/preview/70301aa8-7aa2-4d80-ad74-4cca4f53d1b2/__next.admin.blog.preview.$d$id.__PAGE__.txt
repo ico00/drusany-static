@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Ta79,Na početku upozorenje da ovaj dokumentarac nije za one emotivne i one slabijeg želuca. Film obiluje fotografijama leševa, raskomadanih ili pak izgladnjelih tijela, ljudske bijede i patnje itd.
+
+ 
+
+Sa poslom ratnog foto reportera nas izbliza upoznaje <a href="http://www.jamesnachtwey.com/" target="_blank" rel="noopener noreferrer">James Nachtwey</a>. O njegovoj „težini“ govore nagrade koje je primio za svoje djelo. A to su: Common Wealth Award, Martin Luther King Award, Dr. Jean Mayer Global Citizenship Award, Henry Luce Award, Robert Capa Gold Medal (5x), the World Press Photo Award (2x), Magazine Photographer of the Year (7x), the International Center of Photography Infinity Award (3x), the Leica Award (2x), the Bayeaux Award for War Correspondents (2x), the Alfred Eisenstaedt Award, the Canon Photo essayist Award, W. Eugene Smith Memorial Grant in Humanistic Photography.
+
+ 
+
+Od freelancera je došao do Timea, pa Magnuma da bi na kraju osnovao <a href="http://www.viiphoto.com/" target="_blank" rel="noopener noreferrer">foto agenciju VII</a>.
+
+ 
+
+Uglavnom njegov posao je njegov život, a ovaj dokumentarac nam pokazuje taj posao i način života.
+
+ 
+
+Iako je meni osobno ova vrsta fotografije odvratna i mučna i lešinarska, u dokumentarcu se ipak objasni i ona dobra strana tog posla. Kako Nachtwey sam kaže on je glas tih stradalih ljudi, glas koji mi u toplim domovima ne bi čuli da nema ovih ludih, hrabrih i nesebičnih ljudi koji idu od fronta do fronta i ulaze u ratove koji nisu njihovi  kako bi ostatak svijeta upozorili na zlo koje se dešava. Pri tom oni naravno riskiraju svoj život jer su uglavnom na prvim linijama sa širokokutnim objektivima.
+
+ 
+
+<img src="/uploads/wordpress/2012/06/war-photographer1.jpg" title="war-photographer1" width="640" class="size-full wp-image-4610 aligncenter" />
+
+ 
+
+Za Jamesa kolege pričaju kako je jedan od luđih i hrabrijih, ali i najsmirenijih unatoč tome što je više puta skoro smrtno stradao, više puta bio ranjen i teško bolestan. U filmu je prikazana i snimka iz Južne Afrike gdje je metak prošao pored njega i pogodio kolegu Kena Oosterbroeka koji je smrtno stradao, a Greg Marinovich je bio ozlijeđen. Ken i Greg su bili dio Bang bang cluba s kojim je Nachtwey također surađivao. O <a href="http://foto.drusany.com/2011/10/12/bang-bang-club/" target="_blank" rel="noopener noreferrer">Bang Bang Clubu</a> je snimljen i igrani film o kojem sam već pisao.
+
+ 
+
+Za kraj jedan Jamesov citat
+
+"I have been a witness, and these pictures are my testimony. The events I have recorded should not be forgotten and must not be repeated."
+
+-James Nachtwey0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/70301aa8-7aa2-4d80-ad74-4cca4f53d1b2","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"War photographer"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["05. 06. 2012.",""," · Gradovi, Zagrebancije"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

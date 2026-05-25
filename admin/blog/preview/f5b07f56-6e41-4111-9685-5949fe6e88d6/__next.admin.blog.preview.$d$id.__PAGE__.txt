@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T425,I ove godine održali su se Dani Dubrave, osmi po redu. Ja sam naravno završio na 6. Nagradi Dana Dubrave, autoslalomu u organizaciji Auto kluba Dubrava.
+
+Slalom je opet privukao veliki broj posjetitelja unatoč temperaturi zraka od oko 30 stupnjeva. Na asfaltu je valjda bilo 10 stupnjeva više.
+Uz već poznata slalomaška imena danas su me razveselili kartovi koji su projurili prije slalomaša. I da...safety car nije više dizlo Leon nego Impreza.
+Bil sam samo na prvoj vožnji, pa ne znam kak je sve završilo, al drago mi je da je održavanje ovog slaloma postala tradicija.
+
+ 
+
+Kaj se fotkanja tiče ukopal sam se pod drvo u hlad kako bi preživio taj pakao, pa kadrovi nisu baš raznovrsni i bil sam samo na prvoj vožnji. Ima tu malo klasičnog paninga, malo zamrzavanja sa 1/1250 s i šetnja boksevima sa šircem.
+
+ 
+
+[gallery columns="4" ids="4716,4717,4718,4719,4720,4721,4722,4723,4724,4725,4726,4727,4728,4729,4730,4731,4732,4733,4734,4735,4736,4737,4738,4739,4740,4741,4742,4743,4744,4745,4746,4747,4748,4749,4750,4751,4752,5079"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/f5b07f56-6e41-4111-9685-5949fe6e88d6","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Dani Dubrave 2012. - 6. Auto slalom"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["17. 06. 2012.",""," · Automobilizam, Sport"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

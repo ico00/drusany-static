@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T71d,
+<p>Ne znam koliko se spremam fotkati duge ekspozicije sa ND filterom. Čekam neke oblake, vodu...nešto. Ali niti vremena niti prilike. Dugo sam planirao i pofotkati ruševine Starog grada, ali ni to nikako. Zato smo frend i ja jučer na blef odlučili pokušat spojiti i jedno i drugo.</p>
+
+
+
+<p>Bacio sam oko na Photo Pills, provjerio doba zlatnog, plavog sata i pogledao kako to na karti izgleda. Inače svaki landscape fotograf koji drži do sebe koristi ovu aplikaciju pa sam se i ja malo pravio da znam kaj radim. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="/uploads/wordpress/2019/04/38289780564526074543146-576x1024.jpg" alt="/" width="432" class="wp-image-30433" /><figcaption>Photo Pills</figcaption></figure></div>
+
+
+
+<p>Od silne pameti sam zaboravio žičani okidač bez kojeg nemrem ekspoziciju dužu od 30 sekundi, mislim mogu al moram onda držati prst na okidaču. </p>
+
+
+
+<p>Već sam si prije ostavio <em>mental note</em> da nejdem fotkati landscape i interijere dok ne očistim senzor, ali je očito pisao jako sitnim slovima pa ga sad boldam i underlineam za svako sljedeće snimanje.</p>
+
+
+
+<p>Od šetnice do ruševina ima cca 150 m zračne linije, ali uz puni ruksak i teški stativ po tim zavojima i strminama tih 150 m mi se činilo kao 150 km :)</p>
+
+
+
+<p>Ne znam kompletnu priču ovog dvorca, ali znam kraj (Spoiler alert) - sve se sruši i netko u međuvremenu pogine hodajući po ruševinama koje nigdje nisu ograđene. Vjerojatno neki turist iz metropole koji je htio okinut selfi sa zalaskom i zidinama u pozadini. Ili fotograf koji traži kadar i padne u rupu hodajući u rikverc.  </p>
+
+
+<p>[gallery ids="30409,30410,30411,30412,30413,30414,30415,30416,30417,30418,30419,30420,30421,30422,30423,30424,30425,30426,30427,30428,30429,30430,30431"]</p>0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/48f70505-c1fe-436a-a6d8-102413e2394f","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Stari grad Samobor"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["26. 04. 2019.",""," · Gradovi, Zagrebancije"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

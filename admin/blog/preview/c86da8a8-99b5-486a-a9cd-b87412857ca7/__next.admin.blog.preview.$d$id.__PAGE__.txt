@@ -1,0 +1,72 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T1246,Hrpetina je aplikacija za obradu fotki koje ste opalili svojim mobitelom. Imam osjećaj kao da svakodnevno izlaze. U opisu svake piše da je baš ta najbolja i jedina koja vam treba. Prije sam ih nadobudno instalirao i očekivao čuda od svake od njih, ali sam ih jednakom brzinom i brisao.
+
+Ali već jako dugo se u mom Photo folderu na iPhoneu nalazi samo jedna foto aplikacija i nju jedino koristim, a to je <strong><a href="https://itunes.apple.com/us/app/snapseed/id439438619?mt=8" target="_blank" rel="noopener noreferrer">Snapseed</a></strong>. Uz to kaj je odličan je i besplatan.
+
+ 
+
+Sve je krenulo kada je 2011. ekipa iz <strong>Nik Softwarea</strong> izbacila prvu verziju ove aplikacije za iPad, a Apple ju je proglasio aplikacijom godine. Ubrzo je uslijedila i Windows verzija, a nakon nje vjerojatno najveći korak naprijed bio je u trenutku kada je <strong>Google kupio</strong> Nik Software. No na moj iPhone ga je trajno zakucao upgrade na <strong>verziju 2.0</strong>. U njoj je Snapseed omotan u novo ruho, sve je posloženo na svoje mjesto, sve potrebno je stvarno na jednom mjestu i ja sam zaključio da se više ne želim maltretirati sa hrpom ostalih aplikacija.
+
+ 
+
+Pokretanjem aplikacije se nudi opcija otvaranja fotki iz albuma, snimanje nove ili otvaranje zadnje fotke.
+
+ 
+
+Kada se odlučite za fotku ona će se otvoriti u naizgled minimalističkom sučelju. Fotka u sredini, ispod nje histogram i ikona Edit, a iznad Open, Save, History i Options.
+
+ 
+<h4>Tools i Filters</h4>
+Editiranje se sastoji od ova dva dijela, a svaki od njih nudi još hrpu opcija.
+
+<img src="/uploads/wordpress/2015/10/IMG_73803.jpg" width="640" class="aligncenter size-full wp-image-20047" />
+
+<strong>Tools</strong> se odnosi na ono klasično editiranje poput cropa, izoštravanja, rotiranja.
+
+Tune image skriva još podešavanje svjetline, ambijenta, kontrasta, saturacije, sjena… Tu je naravno i Auto-adjust za one ljenije. Svaka opcije u gornjem lijevom kutu ima malu help animaciju koja će vam u par poteza pokazati kako se koji alat/filter koristi. Ali u biti sve se svodi na to da odaberete alat, stavite prst ne fotku i pomicanjem gore-dolje ćete otvoriti podizbornik kojim birate alat, a lijevo desno idete u minus odnosno plus i tako podešavate intenzitet odabranog alata/filtera.
+
+<img src="/uploads/wordpress/2015/10/IMG_7416-2.jpg" width="320" class="aligncenter size-full wp-image-20052" />
+
+Kada ste zadovoljni rezultatom samo kliknete na kvačicu u donjem desnom kutu i idemo dalje. Opet kliknete na ikonu za Edit (ona olovka dole desno) i povucite prema gore kako bi došli do izbora filtera.
+
+ 
+
+<strong>Filteri</strong> nude podosta lijepih stvari. Od blura, HDR-ova, grungea, filmskih fora, retro majmunarijapa do raznih okvira. Također i svaki od njih ima svoje opcije i podopcije odnosno stilove.
+
+Tako npr. Lens Blur može imati kružnu selekciju ili pak tilt-shift efekt, a kod njih se pak može podešavati radijus i jačina kao i vrsta blura.
+
+ 
+
+Kada odradite i sve alata i filtere koje ste mislili obratite pažnju da se u gornjem desnom ćošku pojavio neki broj desno od opcije Save. To je nekakav <strong>History</strong> i kada kliknete na njega možete se vraćati korak po korak kroz akcije koje ste primjenjivali.
+
+<img src="/uploads/wordpress/2015/10/IMG_7417.jpg" width="320" class="aligncenter size-full wp-image-20058" />
+
+ 
+
+Kada ste zadovoljni svojom obradom kliknete na <strong>Save</strong> gdje će vas također dočekati nekoliko opcija. <em>Save</em> će pregaziti postojeću fotku, ali će ostaviti uključen <em>History</em> pa ćete pri ponovnom otvaranju iste fotke moći hodat korak po korak kako ste ju obrađivali. <em>Save a copy</em> ostavlja original i dodaje editabilnu kopiju dok <em>Export</em> kreira kopiju bez mogućnosti vraćanja koraka obrade.
+
+ 
+<h4>Options</h4>
+Ovdje se skriva <em>Share</em> - mogućnost postavljanja fotke na društvene mreže, slanje mailom, porukom, printanje i sve kaj inače nude ovakve opcije. Tu je i Open in opcija koja služi jelte otvaranju fotke u drugim programima, a pod Settings &amp; details možete vidjeti koliko je fotka velika i Google mapu sa GPS koordinatama gdje je snimljena. Nema skrivanja!
+
+ 
+<h4>Primjer</h4>
+Jedan fini primjer obrade se može vidjeti na ovoj bezličnoj fotki koja je po meni postala podosta zanimljivija uz par pomaka u Snapseedu
+
+ 
+
+
+
+<img src="/uploads/wordpress/2015/10/IMG_7419-1.jpg" width="642" class="aligncenter size-full wp-image-20054" /> <img src="/uploads/wordpress/2015/10/IMG_7419-2.jpg" width="642" class="aligncenter size-full wp-image-20055" />
+
+
+
+ 0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/c86da8a8-99b5-486a-a9cd-b87412857ca7","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Snapseed 2.0 - ne treba mi ništa više"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["26. 10. 2015.",""," · Info"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

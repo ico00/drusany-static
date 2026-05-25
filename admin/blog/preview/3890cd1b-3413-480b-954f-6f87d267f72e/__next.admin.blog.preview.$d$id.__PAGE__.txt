@@ -1,0 +1,90 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T1448,
+<p>Od ulaska u svijet fotografije sam bio Canonaš, ali nikad nisam bio isključiv, ako nešto drugo valja zašto ne probati ili kupiti. Tako da u uredu korsitim Nikona, doma Canona, a isto je i sa Windows / Apple varijantom.</p>
+
+
+
+<p>A sada je došlo vrijeme da konačno probam i treću stranu – Sonya.</p>
+
+
+
+<p>U mojim počecima znači prije nekih tucet godina Sony je bilo nešto što ne želite imati u svojoj foto torbi, nešto miljama daleko od Canikon svetinje. Frend je imao neki Sony u to doba i nije mu se svidjelo kako su mu se sva ostala djeca rugala i upirala prstom pa je i on prešao na Canona te priznao je da se preporodio tom tranzicijom.</p>
+
+
+
+<p>No vremena se mijenjaju pa Sony već par godina drma foto scenu.</p>
+
+
+
+<blockquote><p>The line it is drawn, The curse it is cast<br />The slow one now, Will later be fast<br />As the present now, Will later be past<br />The order is rapidly fadin’<br />And the first one now will later be last<br />For the times they are a-changin</p>Bob Dylan</blockquote>
+
+
+
+<p>Tako sam i ja u donošenju svoje životne foto odluke, nadogradnji starog 5D MK II razmišljao i o tek najavljenom <strong>Sonyu Alpha a99 II</strong>.</p>
+
+
+
+<p>Na papiru je to bila zvijer – full frame senzor, 42 MP, 12 fps, 4K video, vodootporno tijelo, Wi-Fi, dual card slot, puno fokusnih točaka, optička stabilizacija, a cijena skoro duplo jeftinija od Canonovog flagshipa 1DX MK II.</p>
+
+
+
+<p>Ali…nije bio toliki problem uzeti novo tijelo, međutim kupovina objektiva bi me stjerala na prosjački štap. Zeiss igračke nisu nimalo jeftin sport pa kad sam se zbrojio brzo sam se i oduzeo i odustao.</p>
+
+
+
+<p>No i dalje me kopkalo kako ta zvijer diše u stvarnom životu pa sam zamolio kolegu Vedrana Tolića da me ugura u svoj zgusnuti raspored i da malo prošećem tog Sonya po centru Zagreba.</p>
+
+
+
+<p>Čovjek se smilovao i uz aparat mi je dao i perfektan<strong> Sony Sonnar T* 135mm f/1.8 ZA</strong> i radnog konja <strong>Sony Vario-Sonnar T* 24-70mm f/2.8 ZA SSM II</strong>.</p>
+
+
+
+<p>Kad god u ruke uzmem aparat drugog fotografa uvijek ti je nekaj čudno, da li remenje ili postavke, gripovi ili nekaj drugo, ali kad u ruke primiš nešto po prvi put onda ti treba malo vremena da se sabereš i pohvataš detalje iako je to sve vrlo slično.</p>
+
+
+
+<p>Prva stvar koja mi je doslovno upala u oko i bacila upitnik nad glavom je kakva je sad to televizija unutra. Zaboravio sam da ovaj aparat dolazi sa elektroničkim tražilom s kojim dobiješ i živu sliku na ekranu. Odlična stvar kod toga je što se svaka promjena ekspozicije, blende ili ISO-a odmah vidi, pa ne moraš izvoditi <em>chimping</em> svako malo. No ima to i lošu stranu, a to je <em>time lag</em> što je meni podosta iritantno.</p>
+
+
+
+<p>Sljedeća čudna stvar je bila nepojavljivanje fotke na displayu nakon okidanja odnosno stiskanja one play ikone. No to nije bila čudna stvar nego sam bio glup pa nisam okrenuo ekran jer naime a99II ima mogućnost rotacije ekrana. Al sad sam naučio :)</p>
+
+
+
+<p>E sad su se stvari počele malo komplicirati jer burst iliti rafalnim okidanjem se gubi postojanost one real time slike koju vidite kroz tražilo, a to nije mali problem, štoviše veliki je.</p>
+
+
+
+<p>Kad smo kod <em>time laga</em> on postoji i kod malo brže rotacije kotačića za blendu i ekspoziciju. Na svim prijašnjim aparatima sam to jednostavno vrtio brzo koliko sam htio i postavke su se mijenjale u djeliću sekunde. No ovdje je stvar drugačija, aparat pokušava ulovit vaše sumanuto okretanje kotačića, ali jednostavno mu ne ide. Nekada čak ni ne ulovi sve nego samo dio okretaja. Kod sporog okretanje nema tih problema. To ne predstavlja problem u studiju ili na nekim manje dinamičnim poslovima, ali kod bilo kakve akcije nije baš neka sreća.</p>
+
+
+
+<p>Kad sam prebacio fotke na kompjuter opala mi je vilica kako to dobro izgleda. Oštrina, onaj prekrasni kremasti bokeh 135ice, skoro ni jedna krivo eksponirana fotka, a i vrijeme me potrefilo pa nije bilo potrebe za korekcijom boja.</p>
+
+
+
+<p>Ono što posebno cijenim kao fotograf kojem je najveći doseg 200mm je rezolucija od 42 MP koja ostavlja dovoljno prostora za veliki crop bez ugrožavanja kvalitete fotografije. Odlična stvar za sportske fotografe na budžetu koji si ne mogu priuštiti 400mm i slične igračke.</p>
+
+
+
+<p>Aparat je dovoljno velik, dobre izrade, solidne ergonomije i ako vam ne smeta time lag ili ste spremni naviknuti se na njega onda sam siguran da nećete požaliti ako kupite ovu zvijer od aparata.</p>
+
+
+
+<p>Uzmite u obzir da je ovo moje iskustvo u jednosatnom blic druženju s aparatom, a ne pravo suvislo testiranje koje ćete naći na portalima i u časopisima tako da tu vjerojatno ima manevarskog prostora oko raznih tehnikalija. Možda se sve može bolje podesiti mojim potrebama, a možda sam propustio i neku veliku manu.</p>
+
+
+
+<p>Na kraju naravno foto galerija koja će potkrijepiti moje laprdanje…</p>
+
+
+<p>[gallery ids="25244,25279,25245,25246,25247,25248,25249,25250,25251,25252,25253,25254,25255,25256,25257,25258,25259,25260,25261,25262,25263,25264,25265,25266,25267,25268,25269,25270,25271,25272,25273,25275,25276,25277,25278,25274"]</p>0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/3890cd1b-3413-480b-954f-6f87d267f72e","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Blic test: Sony Alpha a99 II"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["05. 08. 2017.",""," · Info"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

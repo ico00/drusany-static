@@ -1,0 +1,171 @@
+1:"$Sreact.fragment"
+3:I[662438,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js"],"default"]
+4:I[339756,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"default"]
+5:I[837457,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"default"]
+6:I[92825,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"ClientSegmentRoot"]
+7:I[388760,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js"],"default"]
+a:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+d:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"ViewportBoundary"]
+f:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"MetadataBoundary"]
+11:I[168027,[],"default"]
+:HL["/_next/static/chunks/8d9047047022f997.css","style"]
+:HL["/_next/static/chunks/96b8e20e975d060d.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2ba5a01c16198eaa-s.p.6d29afb5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70bc3e132a0a741e-s.p.15008bfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/797e433ab948586e-s.p.479bea2b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8780dfd0812b997c-s.p.5704523e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"dQrd5B9ZkKen4LBsT-noh","c":["","admin","blog","preview","e3e93259-bd5a-49f5-beb3-a1f3045e3b29"],"q":"","i":false,"f":[[["",{"children":["admin",{"children":["blog",{"children":["preview",{"children":[["id","e3e93259-bd5a-49f5-beb3-a1f3045e3b29","d"],{"children":["__PAGE__",{}]}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/8d9047047022f997.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/96b8e20e975d060d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/268cdd9821f58453.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/d3d2320bbbfed104.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable jetbrains_mono_7d65b77b-module__VxV-Ta__variable playfair_display_d5eda251-module__JGL7aG__variable shantell_sans_4e849407-module__LGDyyW__variable red_hat_display_6cf3e46-module__oTLDla__variable antialiased","children":["$L2",["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/e7ecb97c70cdaa39.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/41d3bd44d059c7c0.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"Component":"$7","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@8"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L9",[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true,"nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$b",null,{"name":"Next.Metadata","children":"$L10"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$11",[]],"S":true}
+8:"$0:f:0:1:1:children:0:props:children:1:props:serverProvidedParams:params"
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[27201,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"IconMark"]
+c:null
+10:[["$","title","0",{"children":"Drusany | Photography"}],["$","meta","1",{"name":"description","content":"Photography portfolio — portraits, landscapes and moments in natural light."}],["$","link","2",{"rel":"canonical","href":"https://drusany.com"}],["$","meta","3",{"property":"og:title","content":"Drusany | Photography"}],["$","meta","4",{"property":"og:description","content":"Photography portfolio — portraits, landscapes and moments in natural light."}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","7",{"name":"twitter:title","content":"Drusany | Photography"}],["$","meta","8",{"name":"twitter:description","content":"Photography portfolio — portraits, landscapes and moments in natural light."}],["$","link","9",{"rel":"icon","href":"/favicon.ico?favicon.36cd458d.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","10",{"rel":"icon","href":"/favicon.ico?v=2"}],["$","$L12","11",{}]]
+13:Tf3c,body { --theme-title-font: var(--font-red-hat-display), sans-serif; --theme-title-size: clamp(4rem, 7vw, 8rem); --theme-title-color: #ffffff; --theme-title-weight: 100; --theme-title-style: normal; --theme-heading-font: var(--font-playfair), Georgia, serif; --theme-heading-size: clamp(1.75rem, 4vw, 3rem); --theme-heading-color: #18181b; --theme-heading-weight: 400; --theme-heading-style: normal; --theme-headingH1-font: var(--font-red-hat-display), sans-serif; --theme-headingH1-size: 2.25rem; --theme-headingH1-color: #18181b; --theme-headingH1-weight: 400; --theme-headingH1-style: normal; --theme-headingH2-font: var(--font-red-hat-display), sans-serif; --theme-headingH2-size: 1.875rem; --theme-headingH2-color: #18181b; --theme-headingH2-weight: 400; --theme-headingH2-style: normal; --theme-headingH3-font: var(--font-red-hat-display), sans-serif; --theme-headingH3-size: 1.5rem; --theme-headingH3-color: #18181b; --theme-headingH3-weight: 400; --theme-headingH3-style: normal; --theme-headingH4-font: var(--font-red-hat-display), sans-serif; --theme-headingH4-size: 1.25rem; --theme-headingH4-color: #18181b; --theme-headingH4-weight: 400; --theme-headingH4-style: normal; --theme-headingH5-font: var(--font-red-hat-display), sans-serif; --theme-headingH5-size: 1.125rem; --theme-headingH5-color: #18181b; --theme-headingH5-weight: 400; --theme-headingH5-style: normal; --theme-headingH6-font: var(--font-red-hat-display), sans-serif; --theme-headingH6-size: 1rem; --theme-headingH6-color: #18181b; --theme-headingH6-weight: 400; --theme-headingH6-style: normal; --theme-headingOnDark-font: var(--font-red-hat-display), sans-serif; --theme-headingOnDark-size: clamp(1.85rem, 4vw, 3rem); --theme-headingOnDark-color: #ffffff; --theme-headingOnDark-weight: 400; --theme-headingOnDark-style: normal; --theme-pageTitle-font: var(--font-red-hat-display), sans-serif; --theme-pageTitle-size: clamp(1.85rem, 4vw, 3rem); --theme-pageTitle-color: #18181b; --theme-pageTitle-weight: 400; --theme-pageTitle-style: normal; --theme-blogPostTitle-font: var(--font-red-hat-display), sans-serif; --theme-blogPostTitle-size: clamp(1.85rem, 4vw, 2.5rem); --theme-blogPostTitle-color: #18181b; --theme-blogPostTitle-weight: 400; --theme-blogPostTitle-style: normal; --theme-blogListCardTitle-font: var(--font-red-hat-display), sans-serif; --theme-blogListCardTitle-size: clamp(1.85rem, 4vw, 2.5rem); --theme-blogListCardTitle-color: #18181b; --theme-blogListCardTitle-weight: 400; --theme-blogListCardTitle-style: normal; --theme-blogListCardMetadata-font: var(--font-geist-sans), Arial, Helvetica, sans-serif; --theme-blogListCardMetadata-size: 0.875rem; --theme-blogListCardMetadata-color: lab(47.8878% 1.65477 -5.77283); --theme-blogListCardMetadata-weight: 400; --theme-blogListCardMetadata-style: normal; --theme-widgetTitle-font: var(--font-red-hat-display), sans-serif; --theme-widgetTitle-size: 1.125rem; --theme-widgetTitle-color: #18181b; --theme-widgetTitle-weight: 400; --theme-widgetTitle-style: normal; --theme-body-font: var(--font-red-hat-display), sans-serif; --theme-body-size: 1.1rem; --theme-body-color: #3f3f46; --theme-body-weight: 400; --theme-body-style: normal; --theme-quote-font: var(--font-red-hat-display), sans-serif; --theme-quote-size: 1.2rem; --theme-quote-color: #e4e4e7; --theme-quote-weight: 400; --theme-quote-style: italic; --theme-code-font: var(--font-jetbrains-mono), ui-monospace, monospace; --theme-code-size: 1rem; --theme-code-color: #18181b; --theme-code-weight: 400; --theme-code-style: normal; --theme-nav-font: var(--font-red-hat-display), sans-serif; --theme-nav-size: 0.875rem; --theme-nav-color: rgba(255,255,255,0.9); --theme-nav-weight: 400; --theme-nav-style: normal; --theme-caption-font: var(--font-red-hat-display), sans-serif; --theme-caption-size: 1.2rem; --theme-caption-color: #71717a; --theme-caption-weight: 400; --theme-caption-style: normal; }2:["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$13"}}]
+14:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+15:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+16:T1b8f,[testimonials type='normal' testimonialImageLink1='/uploads/wordpress/2013/01/ansel_adams.jpg']
+
+[testimonial id=1 name='- Ansel Adams' name_color='' background_color='' border_color='']
+
+Twelve significant photographs in any one year is a good crop
+
+
+
+
+Ajde kad već godinama radim taj presjek od jedne fotke po mjesecu za prošlu foto godinu budem nastavio tradiciju i ove. 2015. je repriza 2014. ali uz još veći pad. Čitajući prošlogodišnji post vidim da su mi i razmišljanja ostala ista. Dakle sve manje volje imam slušat glupe zaštitarske spike, nebrigu raznih organizatora, ležat ne želucu ispred ringa ili sjedit na parketu jer eto nitko ne smatra da bi fotografi mogli sjesti na nešto nalik stolici, ili pak gledat kretenske ugovore koje ti uvale prije samih koncerata, odvratnu led rasvjetu po tim koncertima kao i na Maksimiru ili Domu sportova.
+
+Tu su još i neki zdravstveni razlozi koji me sprječavaju, ali fotografska želja je još uvijek ista. Za neke stvari će se i dalje isplatiti kisnuti, hodati, čekati, ali za neke više i ne.
+
+ 
+
+<strong>Dinamo</strong> sam popratio na sve tri zagrebačke utakmice Lige prvaka i to je jedna od onih stvari koja se isplati. Morao sam navratiti i na onaj čuveni derbi sa Hajdukom kada je najavljen povratak publike na stadion, ali svi znamo kako je to na kraju završilo. <strong>RK Zagreb</strong> je i ove godine ugostio jaka imena u Areni, a ja sam pofotkao Kolding, Barcelonu i Flensburg. <strong>Nogometna reprezentacija</strong> je igrala kvalifikacije za Europsko prvenstvo, a na Maksimiru su odigrali protiv Norveške i Bugarske. Nisam dobio akreditacije za <strong>Eurobasket</strong>, ali sam pofotkao dvije pripremne utakmice u Areni. Dvije baseball tekme, jedna rugbi, dva rallya, nula hokeja, jedna zanimljiva biciklističke utrka <strong>Tour of Croatia</strong> - to bi bio kraj sportskog presjeka.
+
+ 
+
+Koncerti su spali na <strong>Gang of Four</strong> u Tvornici i Ljeto u MSU gdje sam obišao <strong>Majke</strong>, <strong>Edu Maajku</strong> i <strong>Laibach</strong>.
+
+ 
+
+10 <strong>Zagrebancija</strong> je nekakav OK prosjek, a <strong>Braco i seka</strong> ide onako za dušu.
+
+ 
+
+Ovo ljeto smo posjetili prekrasnu <strong>Provansu</strong> gdje sam napravio hrpetinu fotki i naravno napisao hrpetinu postova.
+
+ 
+
+Nova oprema ove godine skromno, ali korisno i kvalitetno. Manfrotto ruksak <a href="http://foto.drusany.com/2015/07/26/manfrotto-minibee-120-pl/" target="_blank" rel="noopener noreferrer">MiniBee 120-PL</a> i još bolja <a href="http://foto.drusany.com/2015/11/08/sigma-35-mm-f1-4-art-prvi-kontakt/" target="_blank" rel="noopener noreferrer">Sigma 35 mm f/1.4 Art</a>.
+
+ 
+
+ 
+
+Brojčano je 2015. izgledala ovako:
+
+ 
+
+<span></span>
+
+
+
+
+točno
+
+
+
+postova
+
+
+
+
+
+
+više od
+
+
+
+fotografija
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+A sad po jedna odabrana fotka po mjesecu u kojem je snimljena odnosno objavljena na ovom blogu.
+
+
+<h2>Siječanj</h2>
+<h3><img src="/uploads/wordpress/2015/01/141231_Advent_u_Zagrebu_381.jpg" width="800" class="alignnone" /></h3>
+Sjećam se ovog lova plavog sata po Gornjem gradu dok je sniijeg bio još iskoristiv. Općenito, ovo mi je najdraža fotka s  ove lokacije i vjerojatno bi ju odabrao da je broj objavljenih fotki u siječnju bio i veći.
+
+
+<h2>Veljača</h2>
+<h3><img src="/uploads/wordpress/2015/02/MG_2830.jpg" width="548" class="alignnone" /></h3>
+Iako nisam ljubitelj studijskog snimanja jednostavnost dobivanja ove fotke me oduševila, a nešto mi je posebno i u ovoj boji i sad si ne mogu oprostiti kaj nisam odlijepio ovu pozadinsku naljepnicu.
+
+
+<h2>Ožujak</h2>
+<h3><img src="/uploads/wordpress/2015/03/150321_Zagreb-Olimpija_2651.jpg" width="800" class="alignnone" /></h3>
+Kadrovi koje snimim na baseballu su uglavnom isti jer je samo jedno ili dva mjesta pogodno za snimanje kakvih takvih fotki s mojom opremom, a ovo je jedan od malo rjeđih ulova koji je ispao solidno.
+
+
+<h2>Travanj</h2>
+<h3><img src="/uploads/wordpress/2015/04/150409_Zagreb-Barcelona_299.jpg" width="800" class="alignnone" /></h3>
+Zagreb je ugostio veliku Barcelonu u Areni u fantastičnoj utakmici i izgubio sa samo 2 razlike, a jedan od najfotkanijih je svakako bio Nikola Karabatić
+
+
+<h2>Svibanj</h2>
+Ovo je bio jedan neobičan mjesec. Nisam objavio niti jedan foto post. Ne mogu se sjetiti kaj se točno zbilo, ali eto desilo se i to.
+
+
+<h2>Lipanj</h2>
+<h3><img src="/uploads/wordpress/2015/06/150613_Majke_074.jpg" width="800" class="alignnone" /></h3>
+Bare je naša najveća rock legenda i prvi put sam bio na koncertu Majki s aparatom jer si nisam mogao dopustiti da ih nemam u arhivi. Možda ima boljih koncertnih fotki u postu, ali ova mi je nekako najviše sjela.
+
+
+<h2><span>Srpanj</span></h2>
+<h3><img src="/uploads/wordpress/2015/07/150711_Laibach_030.jpg" width="800" class="alignnone" /></h3>
+Sablasno dobar Laibach na krovu MSU-a. Odlična foto prilika i dosta zanimljivih fotki. Ovdje mi je legao ovaj kontrast osvjetljenog, spaljenog oka nasuprot drugog u sjeni sa ovim dimom u pozadini. Što bi se reklo baš sam zadovoljan fotkom pa sam ju izabrao ispred nekih fotki Električnog orgazma.
+
+
+<h2><span>Kolovoz</span></h2>
+<h3><img src="/uploads/wordpress/2015/08/150815_Provansa-Verdon_Gorge_054.jpg" width="800" class="alignnone" /></h3>
+Kolovoz nije fer mjesec za ovaj odabir. Za razliku od svibnja u kolovozu sam objavio 13 postova, a hrapa ih ima zanimljive fotke sa našaeg putovanja u Provansu pa sam morao odabrat jednu od tamo. Odabir je pao na kanjon rijeke Verdon od koje ti po ovako lijepom vremenu jednostavno opadne vilica od divote.
+
+
+<h2>Rujan</h2>
+<h3><img src="/uploads/wordpress/2015/09/150916-Dinamo-Arsenal_299.jpg" width="800" class="alignnone" /></h3>
+U rujnu se desio povijesni sportski događaj, Dinamo je u utakmici Lige prvaka pobjedio veliki Arsenal sa 2:1 i jednostavno sam morao odabrati jednu fotku s tog izvještaja. Odabir je pao na ovaj detalj.
+
+
+<h2>Listopad</h2>
+<h3><img src="/uploads/wordpress/2015/10/151025_Maksimir_009.jpg" width="534" class="aligncenter" /></h3>
+Stigla je jesen i šetnja u Maksimiru sa Majom i Tonijem je najljepše punjenje baterija, a ova biciklistička mi je svakako jedna od najdražih iz serijala.
+
+
+<h2>Studeni</h2>
+<h3><img src="/uploads/wordpress/2015/11/151129_6_Rally_show_Santa_Domenica_019.jpg" width="800" class="alignnone" /></h3>
+Šebalj sa okićenim borom na krovu juri po Svetoj Nedelji odnosno Santa Domenica Rallyu...ostali nisu imali šanse.
+
+
+<h2>Prosinac</h2>
+<img src="/uploads/wordpress/2015/12/151227_Zagrebancije_XLVI-Advent_451.jpg" width="800" class="alignnone" />
+
+Ovo mjesto na Tomislavcu kod Ledenog parka, pogotovo sa fisheyem zgleda kao iz nekog fantasy filma. Preko cijelog ekrana je još fascinantnije.
+
+
+
+ 
+
+Foto aktivnosti će pasti i u ovoj 2016. godini, neće biti putovanja, stajanja na kiši, hodanja po blatu, ali očekujem povećani broj fotki u obiteljskom foto albumu.
+
+ 9:["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L14",null,{"href":"/admin/blog/edit/e3e93259-bd5a-49f5-beb3-a1f3045e3b29","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"2015. - fotka po mjesecu"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["01. 01. 2016.",""," · Gradovi, Zagrebancije"," · Draft"]}],null,["$","$L15",null,{"html":"$16","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}]

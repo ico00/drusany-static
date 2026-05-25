@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Tcfd,
+<p>Danas <strong>5. kolovoza na Dan pobjede i domovinske zahvalnosti, Dan hrvatskih branitelja</strong> pogledajmo galeriju fotki muzeja kojega planiram posjetiti od prvog dana otvaranja, ali nikako, kao da je na drugom kraju svijeta, a ne 15 minuta od doma.</p>
+
+
+
+<p>Riječ je o <strong><a href="http://imageofwar.hr" target="_blank" rel="noreferrer noopener">Image of War</a></strong>, muzeju ratne fotografije koji eto svoja vrata drži otvorenima više od godine dana u ulici Andrije Hebranga 4 (kod Zrinjevca). Nezavisan je to projekt koji je djelomično nastao na <strong>Indiegogo</strong> crowdfunding kampanji , dakle uz pomoć običnih malih ljudi, bez pomoći politike, grada, ministarstva.</p>
+
+
+
+<p>No možda i bolje da se nitko od gore navedenih nije petljao jer bi vjerojatno sve unakazili. Ovako imamo odličan projekt od njegovih povoja odnosno početne kampanje skupljanja novaca koje je odlično idejno, grafički i marketinški osmišljena. Imamo odličan prostor na odličnoj lokaciji opremljen baš onako kako fotografski galerijski prostor treba biti opremljen, imamo odličan izbor fotografija <strong>kustosice Sandre Vitaljić</strong> koje su vrhunski otisnute i smještene u odgovarajuće okvire.</p>
+
+
+
+<p>Jedan takav projekt malih ljudi je bio i Muzej automobila Ferdinand Budicki, ali nadajmo se da Image of War neće doživjeti njegovu sudbinu. </p>
+
+
+
+<p>Na zidovima nisu fotografije koje želite staviti doma na zid, htjet ćete ih što prije zaboraviti ili ćete možda čak poželjeti da ih nikad niste ni vidjeli. Ali one moraju biti tu kao podsjetnik, kao dokument vremena. A tko je to bolje mogao predočiti od iskusnih imena ratne fotografije poput <strong>Rona Haviva</strong>, višestruko nagrađivanog fotografa čije su fotografije služile kao dokument, kao dokaz suđenjima u Haagu ili pak američkoj akciji u Panami. Tu je i njegov kolega iz <strong>The VII Photo Agency, Christopher Morris</strong>, a od domaćih snaga tu su <strong>Robert Belošević, Romeo Ibrišević, Branimir Butković</strong> i još puno njih.</p>
+
+
+
+<p>Za sve one koji ne doživljavaju ratnu fotografiju, koji misle da ona nema svrhu, da su ratni fotografi obični lešinari koji slikaju leševe i ko zna kakve situacije koje vi ne bi htjeli gledati iz toplog doma, razmislite koliko bi toga bilo dodatno zataškano, zaboravljeno, nikada kažnjeno, da nema ovih " "luđaka" koji stavljaju svoju glavu u foto torbu i skaču s ratišta na ratište i prenose svijetu stvari kakve jesu.</p>
+
+
+
+<p>Kada obiđete fotografije spustite se u podrum pogledati dvije video projekcije, jedna su svjedočanstva ljudi, a druga intervjui s domaćim ratnim fotografima koji opisuju svoj put u domovinskom ratu.  Dole također možete upisati svoje dojmove i pročitati kratka svjedočanstva sa malih drvenih pločica.</p>
+
+
+
+<p>Sve u svemu jedno lijepo, ali ružno mjesto iz kojeg nećete izaći s osmjehom na licu, ali neki turist će možda izaći malo osvješteniji, drugi upućeniji, a nama domaćima će ovo biti kategorija <em>da se ne zaboravi.</em></p>
+
+
+
+<p>Inače dio svake prodane ulaznice (50 kn obična) ide za žrtve rata.</p>
+
+
+<p>[gallery ids="31168,31169,31170,31171,31172,31173,31174,31175,31176,31177,31178,31179,31180,31181,31182,31183,31184,31185,31186,31187,31188,31189,31190,31191,31192"]</p>0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/6154407b-7929-4b9e-85c8-3ae040f06cfc","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Image of War"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["05. 08. 2019.",""," · Gradovi, Zagrebancije"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

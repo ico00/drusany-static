@@ -1,0 +1,127 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T1639,
+<p>Mogu se pohvaliti da sam poprilično pedantan (ako je to za
+hvaliti se) u svezi glede arhiviranja i kategoriziranja fotografija.</p>
+
+
+
+<p>Sve mi je po logičnim folderima, svaka fotka je pravilno
+imenovana, s datumom i brojem, neke čak imaju ispunjene i ključne riječi i
+opise. Tako da dosta brzo pronalazim stvari i uglavnom mi ne treba ništa
+pametnije i kompliciranije od ovoga.</p>
+
+
+
+<p>No nekad se stvari ipak dodatno kompliciraju, nekad trebaš
+naći pojedinu osobu, nekada bi na brzinu nešto kategorizirao, pogledao kad
+ističe licenca ili pak izbrisao neke fotke jer GDPR.</p>
+
+
+
+<p>Na poslu imam dosta takvih situacija i zato sam išao kopati po netu u potrazi za nekim pametnim rješenjem iz Švedske…ili Rumunjske ili Azerbajdžana, nebitno dok god je pametno. I brzo. I jednostavno. I <strong>besplatno</strong>. </p>
+
+
+
+<h2>DAMS</h2>
+
+
+
+<p>Te stvari rješava <strong>Digital Asset Management System</strong>, a u mom slučaju se on zove <strong><a href="https://daminion.net" target="_blank" rel="noreferrer noopener">Daminion</a></strong>. Preporučio mi ga je prijatelj koji me navukao i na Photo Mechanic pa sam u startu vjerovao da je i ovo dobro rješenje, ali sam pokušavao, pa odustajao, sve misleći da si samo dodatno kompliciram stvari i gubim vrijeme. Činjenica je da se u startu izgubi dosta vremena dok se to sve posloži, ali se u konačnici dobije na njemu, a usput se sačuva i dosta živaca.</p>
+
+
+
+<figure><iframe src="https://www.youtube.com/embed/Za_QpR9Z68U" title="YouTube video" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0"></iframe></figure>
+
+
+
+<p>Kako ne postoji jedan univerzalan savršen softver koji će raditi sve po pitanju fotografija ostaje nam kombiniranje što manjeg broja korisnog softvera. Kod mene se to svodi na Photo Mechanic, Photoshop i sada Daminion dok za online gluposti koristim Photo Shelter.</p>
+
+
+
+<h2>Katalozi</h2>
+
+
+
+<p>Daminion je u stvari katalog, odnosno više kataloga ako koristite besplatnu verziju koja će biti limitirana na<strong> 15.000 fotografija po katalogu</strong> (kojih možete imati neograničeno). </p>
+
+
+
+<p>U njemu nećete obrađivati fotografije, niti išta slično nego
+ih samo kategorizirati, pronalaziti ih po ključnim riječima, objektivom s kojim
+su fotkane, godini, orijentaciji, po ljudima koji su na njima…</p>
+
+
+
+<p>Tako npr. mogu potražiti fotke na kojima mi je Miro Prčić na eventu Gobleni za početnike. Kad ju nađem mogu je kopirati gdje treba, otvoriti s čim treba, otvoriti njen folder u Exploreru, exportati njene generalije u excel, poslati mailom….kaj god treba. I to sve vrlo brzo. Nemojte mi se usuditi spominjati Lightroom ili Bridge.</p>
+
+
+
+<p>Lijepa stvar je da Daminion prikazuje i thumbove vektora što
+mi nije bio slučaj u Photo Mechanicu i exploreru.</p>
+
+
+
+<p>Ma ima još lijepih stvari poput pretraživanja fotki na Googleu. Odabereš fotku, odeš na izbornik Catalog i odabereš <em>Find Image on the Internet</em>. Ili pak <em>Find Duplicate</em>.</p>
+
+
+
+<figure class="wp-block-image"><img src="/uploads/wordpress/2019/02/Daminion-google.jpg" alt="/" class="wp-image-30025" /><figcaption> <em>Find Image on the Internet</em></figcaption></figure>
+
+
+
+<p>Ružna stvar je da ga nema na Macu. </p>
+
+
+
+<h2>Za velike i male</h2>
+
+
+
+<figure class="wp-block-image"><img src="/uploads/wordpress/2019/02/daminion-architecture.gif" alt="/" class="wp-image-30033" /></figure>
+
+
+
+<p>Ako radite u većoj firmi i više ljudi treba koristiti Daminion onda to više nije Basic nego <strong>Server </strong>verzija koju instalirate na jelte vaš lokalni server i s tom licencom će ga moći koristiti 5 zaposlenika. Zgodno rješenje ako imate više odjela koji trebaju kopati po arhivi i koristiti fotke za svoje potrebe. Kako ja nemam tu verziju neću dalje o njoj da ne blebnem neku glupost. </p>
+
+
+
+<h2>Meta podaci</h2>
+
+
+
+<p>Nemojte misliti da je sve tako bajno i jednostavno. Da bi Daminion radio to što radi vaše fotografije trebaju biti tagirane, odnosno trebaju imati upisane meta podatke, EXIF, nazovite to kako hoćete, ali bez toga sve ovo nema smisla. Ako to već imate odrađeno onda je posao oko Daminiona samo Import. Ako ne…e onda vas čeka malo organizacije u kuckanja, ali isplati se. Meni je većina toga već bila sređena u Photo Mechanicu, ali sam ipak htio sve te stilove nekako objediniti pa sam krenuo od nule. No sada npr. kliknem upišem (ili odaberem keyword) A-319 i Daminion će na uvid dati sve fotke Airbusa A-319 koje se nalaze u katalogu. U starom načinu rada bi trebao proći kroz foldere za koje mislim da sadrže taj avion, pa tražiti, listati, pa opet otvarati, tražiti…uglavnom gubio bih vrijeme. Volim onu zvijezdu od sunca koja se napravi kad zatvorimo blendu pa sam tagirao te fotke. Sad samo kliknem na KW Sun flare i evo ih – u sekundi.</p>
+
+
+
+<p>Nedavno mi je kolega tražio da mu pokažem neke fotke
+snimljene sa 14-24 da vidi širinu i kvalitetu objektiva. Pa sam se pokušao
+sjetiti gdje sam kaj fotkao s tim i kaj je najbolje. Sad pogađate, samo klik na
+Camera lens / 14-24mm f/2.8 G i evo svih fotki.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="/uploads/wordpress/2019/02/Daminion-tag.jpg" alt="/" class="wp-image-30030" /></figure></div>
+
+
+
+<p>E da, kad dodajete fotke u katalog onda ih samo dodajte u
+katalog, nemojte baš kopirati fotke u novi folder ako ne trebate.</p>
+
+
+
+<h2>I?</h2>
+
+
+
+<p>Što reći za kraj? Daminion sam tek počeo koristiti pa ne
+mogu previše mudrih savjeta dati, ali koliko sada vidim jako koristan komad
+softvera koji će mi preći u dnevno korištenje. </p>
+0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/7ebeb450-88fa-49f6-b11a-b076fa4a897d","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Daminion - reda mora biti"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["15. 02. 2019.",""," · Info"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

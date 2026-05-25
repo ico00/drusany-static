@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T740,Bio sam malo skeptičan kad me žena nagovarala da odemo pogledati <a href="http://www.mkn.mhz.hr/hr/" target="_blank" rel="noopener noreferrer">Muzej krapinskih neandertalaca</a>. Mislio sam da će to biti nešto ojadno, tipično balkanski, ali sam se jako prevario. Dočekao nas je muzej svjetske kvalitete.
+
+ 
+
+Upad je poštenih 50kn po glavi. Naravno ima popust za obitelj, klince i sl.
+
+ 
+
+Prvi korak je gledanje odlično napravljenog kratkog filma koji priakzuje jedan "radni dan" neandertalaca. Na filmu su maske i šminku radili ljudi  koji su radili i na Gospodaru prstenova tako da nema sumnje u kvalitetu. Nakon filma se kreće u obilazak. Svaki korak je odlično objašnjen na 3 jezika na pločicama pored svakog izloženog predmeta. Po podu možete pratiti pločice sa označenim godinama kako bi znali kad se kaj događa. Interijer je u golom betonu koji se odlično uklapa u neandertalsku priču. Muzej obiluje i interaktivnim sadržajima, pa sa terminalima gdje možete nabaciti kviz znanja ili se fotkati.
+
+ 
+
+Na jednom dijelu je pećina u kojoj vidimo glavne likove iz filma na početku. Skulpture su napravljene savršeno i nevjerojatno realno. Stajao sam dosta vremena ispred modela klinca koji drži kamen i gledao u njegove oči koje su stvarno fascinantne.
+
+ 
+
+Još je puno animacija, interaktivnih sadržaja i skulptura za vidjeti, pa ako niste svakako ih odite pogledati. Od centra Zagreba do muzeja ima oko 45 minuta vožnje, pa je ovo preporuka i za turiste koji su odradili sve zagrebačke ture.
+
+ 
+
+Ovaj posjet bi po običaju prikazao i kroz fotografije, ali iz meni nejasnog razloga fotografiranje je zabranjeno. Ali van muzeja ima nekoliko skulptura koje sam ipak zarobio u fotke.
+
+ 
+
+[gallery link="file" columns="4" ids="5753,5754,5755,5756,5757,5758,5759,5760,5761,5762" orderby="post_date"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/124055e7-3a74-4d28-ba8d-43db651b5431","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Muzej krapinskih neandertalaca"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["03. 11. 2012.",""," · Gradovi, Zagrebancije"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

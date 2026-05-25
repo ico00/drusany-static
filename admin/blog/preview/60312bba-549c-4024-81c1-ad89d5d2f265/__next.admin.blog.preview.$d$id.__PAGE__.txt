@@ -1,0 +1,54 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+8:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:Teab,OK, svi znate za <a href="http://scottkelby.com" target="_blank" rel="noopener noreferrer">Scotta Kelbya</a>, odličnog fotografa, autora mnogih foto bestsellera, Photoshop gurua, dizajnera, čovjeka koji je poznat i po <a href="http://kelbytraining.com" target="_blank" rel="noopener noreferrer">www.kelbytraining.com</a>... Uglavnom njuška.
+
+ 
+
+Zašto ga sada spominjem? Zato jer sam ja tek nedavno odlučio sjesti i pogledati neke Scottove tutoriale i školice koji se nude na You Tubeu. Inače baš i nemam koncentracije i volje gledati sve te silne filmiće, ali Scott Kelby mi je savršeno legao. Objašnjava ono što mene zanima, radi to dobro i na konkretnim primjerima, pa se puno lakše shvati, a uz to ima i dobar smisao za humor, a ono što je najvažnije je to što je svestran. Odlično radi i modele u studiju, kao i sportsku fotografiju, putovanja...
+
+ 
+
+Scott ne skriva da za jednu dobru fotku treba i puno loših, pa se tako na svakom predavanju sprda i tjera polaznike da se zakunu kako ga neće smatrati lošijim fotografom nakon što vide fotke koje će pokazati.
+
+ 
+
+Stavit ću par linkova koje sam ovih dana prevrtio i u svakom od njih nešto novo naučio.
+
+ 
+<h2>Crushing the composition</h2>
+<iframe src="http://www.youtube.com/embed/FpHMuK7Htic" title="YouTube video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+Osnove. Ali ne one dosadne koje svi ponavljaju nego one kako razraditi scenu da dobijete što želite, kako pratiti svoj foto osjećaj, kako biti svoj urednik odnosno kako odabrati one prave fotke za portfolio...
+
+ 
+<h2>Tips for shooting sports</h2>
+<iframe src="http://www.youtube.com/embed/wQ4KsGYDzgU" title="YouTube video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+Drago mi je da je Scott ovdje rekao jednu činjenicu vezanu za sportsku fotografiju, a to je da za sport jednostavno treba dobra i skupa oprema. Kako kaže, naravno da će se naći i neki predstavnik stare garde koji će manualno fokusirati na neku točku i okinuti par fotki, ali bez dobre opreme ništa od WOW fotki.
+
+ 
+<h2>Travel photography</h2>
+<iframe src="http://www.youtube.com/embed/LIt1cDw5lLI" title="YouTube video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+U ovom filmu sam se podsjetio na "Auto align layers" koji u CS6 poprilično dobro radi posao, naučio foru "duplicate layer - multiply - mask" kako bi se istaknuli glavni dijelovi fotke. Ima i stvari koje mi se ne sviđaju u konačnici, ali to je stvar ukusa. Dokazao je i da je tablet nešto nezaobilazno za retuširanje.
+
+ 
+<h2>A walk in Paris</h2>
+<iframe src="http://www.youtube.com/embed/yNR9xVIVTI8" title="YouTube video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+Ovdje mi se posebno svidjela jedna stvar. Zašto bi sa današnjim aparatima radili "običnu" panoramu od hrpetine fotki kad možemo od npr. samo dvije. Na svakom novom aparatu ima dovoljno MP da se napravi dosta veliki print panorame koja nije sastavljena od sto fotki.
+
+ 
+<h2>Photoshop CS6 Little secrets</h2>
+<iframe src="http://www.youtube.com/embed/dg27fAhBAE4" title="YouTube video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+Jedan kratki filmić sa par Photoshop caka.
+
+ 0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/60312bba-549c-4024-81c1-ad89d5d2f265","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Tutoriali: Scott Kelby"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["26. 01. 2013.",""," · Savjeti"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],["$L5","$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

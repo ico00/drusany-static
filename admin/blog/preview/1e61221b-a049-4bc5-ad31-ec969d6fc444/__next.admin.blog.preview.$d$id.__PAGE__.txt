@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[522016,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],""]
+3:I[721692,["/_next/static/chunks/268cdd9821f58453.js","/_next/static/chunks/d3d2320bbbfed104.js","/_next/static/chunks/e7ecb97c70cdaa39.js","/_next/static/chunks/41d3bd44d059c7c0.js","/_next/static/chunks/5036f5c014b32a0a.js","/_next/static/chunks/9cd2dfef60d90a17.js"],"default"]
+5:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/73e3194f06db260e.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+4:T501,Zagreb je zakuhao na paklenu temperaturu, pa sam s frendom spas potražio na <a href="http://maps.google.hr/maps/ms?ie=UTF8&amp;hl=hr&amp;t=p&amp;msa=0&amp;msid=112803059430699193197.00049249acd02332d33eb&amp;ll=45.896221,15.990257&amp;spn=0.041814,0.068665&amp;z=13&amp;source=embed" target="_blank" rel="noopener noreferrer">Sljemenskoj stazi 22</a> od Markuševca do Hunjke. Spas međutim nisam našao. Čak je i breg zakuhal i bilo je dosta odvratno. Na putu prema gore se još moglo naći ugodnih dionica, ali povratak je bio obilježen feniranjem vrućim vjetrom i odvratnim temperaturama, pogotovo po dionicama bez sjena drveća.
+
+ 
+
+Putem su nas naravno ponizili planinari u ranim osamdesetima koji su hodali kao da je Sljeme ravno dok sam ja proklinjao sve živo i mrtvo i dok sam tražio neki respirator u blizini da preživim i pravi se da fotkam dok sam disao na škrge.
+
+ 
+
+Na Maloj Hunjki smo platili najskuplju cedevitu u životu. Oko 11kn za 2 čajne žličice praha u 2 dcl vode. Nešto odvratnije i skuplje nisam dugo pio.
+
+ 
+
+Sve u svemu nije bilo loše, ali ne znam da bum se baš vratio po ovim vrućinama.
+
+ 
+
+[gallery link="file" columns="4" ids="4330,4331,4332,4333,4334,4335,4336,4337,4338,4339,4340,4341,4342,4343" orderby="post_date"]0:{"buildId":"dQrd5B9ZkKen4LBsT-noh","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white text-zinc-900","children":["$","article",null,{"className":"mx-auto max-w-4xl px-6 py-12","children":[["$","$L2",null,{"href":"/admin/blog/edit/1e61221b-a049-4bc5-ad31-ec969d6fc444","className":"mb-8 inline-flex items-center gap-2 text-sm text-zinc-600 transition-colors hover:text-zinc-900","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Natrag na uređivanje"]}],["$","div",null,{"className":"mb-6 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-sky-800","children":"Admin preview (draft/published)"}],["$","h1",null,{"className":"mb-2 font-serif text-4xl tracking-tight","children":"Sljeme: Planinarska staza 22 - Markuševec-Hunjka"}],["$","p",null,{"className":"mb-8 text-sm text-zinc-500","children":["29. 04. 2012.",""," · Gradovi, Zagrebancije"," · Draft"]}],null,["$","$L3",null,{"html":"$4","className":"prose prose-zinc max-w-none prose-headings:font-serif"}],null]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5036f5c014b32a0a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/9cd2dfef60d90a17.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null
